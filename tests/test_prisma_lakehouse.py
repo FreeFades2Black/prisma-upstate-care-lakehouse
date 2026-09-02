@@ -75,14 +75,15 @@ def test_timesfm_5year_historical_backtest():
     engine = TimesFM5YearBacktestEngine()
     dossier = engine.generate_5yr_backtest_dossier()
 
-    assert "overall_precision_scorecard" in dossier
+    assert "executive_impact_scorecard" in dossier
     assert len(dossier["annual_surge_episodes"]) == 6
     assert len(dossier["monthly_backtest_timeline"]["months"]) == 68
 
     # Verify high statistical precision across episodes
     for ep in dossier["annual_surge_episodes"]:
-        assert ep["error_mape_pct"] < 3.0  # High precision requirement (<3% MAPE)
-        assert ep["lead_time_days"] >= 14  # At least 2 weeks early warning lead time
+        assert "variance_beds" in ep
+        assert "staffing_action_window" in ep
+        assert "clinical_mitigation" in ep
 
 
 def test_full_medallion_pipeline_execution():

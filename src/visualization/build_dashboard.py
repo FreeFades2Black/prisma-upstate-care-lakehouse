@@ -266,22 +266,20 @@ def generate_executive_html(output_dir: str = "docs"):
   </header>
 
   <!-- ═══════════════════════════════════════════════════════════════════════ -->
-  <!-- 🎯 EXECUTIVE BRIEFING & DIRECT GREENVILLE INTERVIEW QUOTES              -->
+  <!-- 🏛️ EXECUTIVE CLINICAL OPERATIONS BRIEFING                              -->
   <!-- ═══════════════════════════════════════════════════════════════════════ -->
   <section class="max-w-7xl mx-auto px-4 mt-6">
     <div class="glass-card-amber p-5 rounded-2xl shadow-xl border border-amber-500/50">
       <div class="flex flex-col md:flex-row justify-between items-start md:items-center gap-2 border-b border-amber-900/60 pb-3 mb-3">
         <h2 class="text-sm md:text-base font-black text-amber-300 uppercase tracking-wider flex items-center gap-2">
-          <span>🎯</span> How to Pitch This in Prisma Health &amp; Greenville Leadership Interviews
+          <span>🏛️</span> Executive Overview: Upstate Clinical Capacity &amp; Regional Throughput Architecture
         </h2>
-        <span class="text-[10px] font-mono text-amber-200 bg-amber-950 px-2 py-0.5 rounded border border-amber-800">EXECUTIVE TALKING POINTS</span>
+        <span class="text-[10px] font-mono text-amber-200 bg-amber-950 px-2 py-0.5 rounded border border-amber-800">CLINICAL OPERATIONS BRIEFING</span>
       </div>
 
       <div class="space-y-2 text-xs md:text-sm text-amber-100 leading-relaxed font-sans">
-        <p class="italic text-amber-200 bg-amber-950/50 p-3 rounded-lg border border-amber-800/60">
-          "I didn't build a theoretical tutorial; I built a pipeline targeting Prisma Health's actual operational topology. 
-          I mapped <strong>Greenville Memorial (420078)</strong> as the central tertiary trauma hub carrying a 2.18 Case Mix Index (CMI) and modeled capacity balancing across <strong>Patewood (420102)</strong>, <strong>Greer (420033)</strong>, <strong>Hillcrest (420037)</strong>, and <strong>Easley (420015)</strong>. 
-          My <strong>Google TimesFM-3 foundation inference node</strong> consumes Delta tables partitioned by CMS CCN to project acute-care bed pressure over a 4-week window, providing clinical directors actionable lead time before ICU capacity crunches occur."
+        <p class="text-amber-200 bg-amber-950/50 p-3 rounded-lg border border-amber-800/60 leading-relaxed">
+          Targeting Prisma Health's actual operational topology: <strong>Greenville Memorial (420078)</strong> is mapped as the central tertiary trauma hub carrying a 2.18 Case Mix Index (CMI), with automated capacity balancing modeled across <strong>Patewood (420102)</strong>, <strong>Greer (420033)</strong>, <strong>Hillcrest (420037)</strong>, and <strong>Easley (420015)</strong>. A <strong>Google TimesFM-3 foundation inference node</strong> consumes Delta tables partitioned by CMS CCN to project acute-care bed pressure over a 4-week window, providing clinical directors actionable lead time before ICU capacity crunches occur.
         </p>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-3 pt-1 text-xs">
           <div class="bg-slate-900/90 p-2.5 rounded border border-slate-800">

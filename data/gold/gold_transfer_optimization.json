@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "engine": "Prisma-Upstate-Care-Coordination-Optimizer",
+    "timestamp_utc": "2026-09-02T15:11:11.003481+00:00",
+    "tertiary_hub_ccn": "420078",
+    "tertiary_hub_name": "Prisma Health Greenville Memorial Hospital"
+  },
+  "tertiary_hub_status": {
+    "occupancy_rate_pct": 98.65,
+    "er_wait_time_minutes": 134,
+    "status_directive": "CODE_PURPLE_CRUNCH",
+    "bed_surge_pressure_index": 100.0,
+    "excess_patient_load": 111,
+    "transfers_dispatched": 0
+  },
+  "transfer_routing_recommendations": [
+    {
+      "destination_ccn": "420102",
+      "destination_name": "Prisma Health Patewood Hospital",
+      "destination_location": "Greenville, SC (Patewood Dr)",
+      "distance_from_grove_rd_miles": 6.8,
+      "transit_time_minutes": 14,
+      "current_occupancy_pct": 97.22,
+      "available_beds": 1,
+      "recommended_transfers_today": 0,
+      "eligible_acuity_types": [
+        "Elective Post-Surgical",
+        "Orthopedic Recovery",
+        "Low-Acuity Observation"
+      ],
+      "routing_status": "STANDBY_CAPACITY"
+    },
+    {
+      "destination_ccn": "420033",
+      "destination_name": "Prisma Health Greer Memorial Hospital",
+      "destination_location": "Greer, SC",
+      "distance_from_grove_rd_miles": 14.2,
+      "transit_time_minutes": 22,
+      "current_occupancy_pct": 91.46,
+      "available_beds": 6,
+      "recommended_transfers_today": 0,
+      "eligible_acuity_types": [
+        "General Medical Inpatient",
+        "Sub-Acute Respiratory Stepdown",
+        "Stable Telemetry"
+      ],
+      "routing_status": "STANDBY_CAPACITY"
+    },
+    {
+      "destination_ccn": "420037",
+      "destination_name": "Prisma Health Hillcrest Hospital",
+      "destination_location": "Simpsonville, SC",
+      "distance_from_grove_rd_miles": 16.5,
+      "transit_time_minutes": 24,
+      "current_occupancy_pct": 91.67,
+      "available_beds": 3,
+      "recommended_transfers_today": 0,
+      "eligible_acuity_types": [
+        "Low-Acuity Medical Recovery",
+        "Observation",
+        "Rehab Transition"
+      ],
+      "routing_status": "STANDBY_CAPACITY"
+    },
+    {
+      "destination_ccn": "420015",
+      "destination_name": "Prisma Health Baptist Easley Hospital",
+      "destination_location": "Easley, SC (Pickens Co.)",
+      "distance_from_grove_rd_miles": 12.8,
+      "transit_time_minutes": 19,
+      "current_occupancy_pct": 98.17,
+      "available_beds": 1,
+      "recommended_transfers_today": 0,
+      "eligible_acuity_types": [
+        "Pickens Resident Stepdown",
+        "Geriatric Sub-Acute",
+        "General Med-Surg"
+      ],
+      "routing_status": "STANDBY_CAPACITY"
+    }
+  ],
+  "financial_roi": {
+    "daily_avoided_boarding_cost_usd": "$0.00",
+    "annual_projected_savings_usd": "$0.00",
+    "er_bottleneck_hours_reduced": 0.0
+  }
+}

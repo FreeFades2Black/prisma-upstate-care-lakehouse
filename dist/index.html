@@ -390,12 +390,11 @@
   <script>
     const facilities = [{"ccn": "420078", "name": "Prisma Health Greenville Memorial Hospital", "location": "Greenville, SC (Grove Rd)", "county": "Greenville", "lat": 34.8214, "lng": -82.4147, "beds": 814, "icu": 112, "cmi": 2.18, "occ": 93.4, "surge_peak_28d": 96.8, "tier": "TERTIARY_LEVEL1_TRAUMA", "status": "CODE_PURPLE_CRUNCH", "badge_class": "bg-rose-950 text-rose-300 border-rose-800", "action": "LOAD_SHEDDING_ACTIVE (Divert to Patewood/Greer)"}, {"ccn": "420102", "name": "Prisma Health Patewood Hospital", "location": "Greenville, SC (Patewood Dr)", "county": "Greenville", "lat": 34.8569, "lng": -82.3168, "beds": 72, "icu": 8, "cmi": 1.25, "occ": 71.2, "surge_peak_28d": 78.5, "tier": "SPECIALTY_SHORT_STAY", "status": "HEALTHY_CAPACITY", "badge_class": "bg-emerald-950 text-emerald-300 border-emerald-800", "action": "INFLOW_TARGET (+8 Ortho/Surg Transfers)"}, {"ccn": "420033", "name": "Prisma Health Greer Memorial Hospital", "location": "Greer, SC", "county": "Greenville", "lat": 34.9452, "lng": -82.2384, "beds": 82, "icu": 10, "cmi": 1.42, "occ": 74.5, "surge_peak_28d": 82.0, "tier": "COMMUNITY_ACUTE_CARE", "status": "HEALTHY_CAPACITY", "badge_class": "bg-emerald-950 text-emerald-300 border-emerald-800", "action": "INFLOW_TARGET (+6 General Med Inpatients)"}, {"ccn": "420037", "name": "Prisma Health Hillcrest Hospital", "location": "Simpsonville, SC", "county": "Greenville", "lat": 34.7237, "lng": -82.2612, "beds": 48, "icu": 6, "cmi": 1.31, "occ": 68.0, "surge_peak_28d": 75.0, "tier": "COMMUNITY_ACUTE_CARE", "status": "HEALTHY_CAPACITY", "badge_class": "bg-emerald-950 text-emerald-300 border-emerald-800", "action": "INFLOW_TARGET (+4 Sub-Acute Observations)"}, {"ccn": "420015", "name": "Prisma Health Baptist Easley Hospital", "location": "Easley, SC", "county": "Pickens", "lat": 34.8385, "lng": -82.6074, "beds": 109, "icu": 12, "cmi": 1.38, "occ": 76.8, "surge_peak_28d": 84.5, "tier": "RURAL_ADJACENT_FEEDER", "status": "HEALTHY_CAPACITY", "badge_class": "bg-emerald-950 text-emerald-300 border-emerald-800", "action": "INFLOW_TARGET (+5 Pickens County Feeder)"}];
 
-    // 1. Initialize Map with Zero-Key CartoDB Dark Matter Basemap
+    // 1. Initialize Map with Clean Zero-Watermark OpenStreetMap Basemap
     const map = L.map('careMap').setView([34.84, -82.38], 10);
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-      subdomains: 'abcd',
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
       maxZoom: 19,
-      attribution: '&copy; OpenStreetMap &copy; CARTO'
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
     }).addTo(map);
 
     const hub = facilities.find(f => f.ccn === "420078");

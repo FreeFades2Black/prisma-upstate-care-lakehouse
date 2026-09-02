@@ -1,7 +1,7 @@
 {
   "metadata": {
     "engine": "Prisma-Upstate-Care-Coordination-Optimizer",
-    "timestamp_utc": "2026-09-02T15:11:11.003481+00:00",
+    "timestamp_utc": "2026-09-02T16:02:45.972884+00:00",
     "tertiary_hub_ccn": "420078",
     "tertiary_hub_name": "Prisma Health Greenville Memorial Hospital"
   },
@@ -20,8 +20,8 @@
       "destination_location": "Greenville, SC (Patewood Dr)",
       "distance_from_grove_rd_miles": 6.8,
       "transit_time_minutes": 14,
-      "current_occupancy_pct": 97.22,
-      "available_beds": 1,
+      "current_occupancy_pct": 91.67,
+      "available_beds": 5,
       "recommended_transfers_today": 0,
       "eligible_acuity_types": [
         "Elective Post-Surgical",
@@ -36,8 +36,8 @@
       "destination_location": "Greer, SC",
       "distance_from_grove_rd_miles": 14.2,
       "transit_time_minutes": 22,
-      "current_occupancy_pct": 91.46,
-      "available_beds": 6,
+      "current_occupancy_pct": 96.34,
+      "available_beds": 2,
       "recommended_transfers_today": 0,
       "eligible_acuity_types": [
         "General Medical Inpatient",
@@ -52,8 +52,8 @@
       "destination_location": "Simpsonville, SC",
       "distance_from_grove_rd_miles": 16.5,
       "transit_time_minutes": 24,
-      "current_occupancy_pct": 91.67,
-      "available_beds": 3,
+      "current_occupancy_pct": 95.83,
+      "available_beds": 1,
       "recommended_transfers_today": 0,
       "eligible_acuity_types": [
         "Low-Acuity Medical Recovery",

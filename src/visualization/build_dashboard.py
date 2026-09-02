@@ -488,13 +488,12 @@ def generate_executive_html(output_dir: str = "docs"):
   <script>
     const facilities = {facilities_json};
 
-    // 1. Initialize Map with Zero-Key CartoDB Dark Matter Basemap
+    // 1. Initialize Map with Clean Zero-Watermark OpenStreetMap Basemap
     const map = L.map('careMap').setView([34.84, -82.38], 10);
-    L.tileLayer('https://{{s}}.basemaps.cartocdn.com/dark_all/{{z}}/{{x}}/{{y}}{{r}}.png', {{
-      subdomains: 'abcd',
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
       maxZoom: 19,
-      attribution: '&copy; OpenStreetMap &copy; CARTO'
-    }}).addTo(map);
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
 
     const hub = facilities.find(f => f.ccn === "420078");
 

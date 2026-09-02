@@ -1,306 +1,306 @@
 timestamp_utc,date,Facility ID,Facility Name,State,County,Staffed Beds,ICU Beds,Occupied MedSurg,Occupied ICU,ER Wait Mins,Diverted Transfers,Incoming Transfer Requests,Flu RSV COVID Admissions,Case Mix Index
-2026-07-04T15:11:10.774328+00:00,2026-07-04,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,645,108,125,6,24,14,2.18
-2026-07-04T15:11:10.774328+00:00,2026-07-04,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,47,6,49,0,4,3,1.25
-2026-07-04T15:11:10.774328+00:00,2026-07-04,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,50,7,47,0,4,3,1.42
-2026-07-04T15:11:10.774328+00:00,2026-07-04,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,29,4,47,0,4,3,1.31
-2026-07-04T15:11:10.774328+00:00,2026-07-04,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,69,8,48,0,4,3,1.38
-2026-07-05T15:11:10.774328+00:00,2026-07-05,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,656,109,127,6,24,14,2.18
-2026-07-05T15:11:10.774328+00:00,2026-07-05,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,44,5,46,0,4,3,1.25
-2026-07-05T15:11:10.774328+00:00,2026-07-05,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,53,7,50,0,4,3,1.42
-2026-07-05T15:11:10.774328+00:00,2026-07-05,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,28,4,46,0,4,3,1.31
-2026-07-05T15:11:10.774328+00:00,2026-07-05,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,71,9,50,0,4,3,1.38
-2026-07-06T15:11:10.774328+00:00,2026-07-06,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,679,109,131,6,24,14,2.18
-2026-07-06T15:11:10.774328+00:00,2026-07-06,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,45,5,48,0,4,3,1.25
-2026-07-06T15:11:10.774328+00:00,2026-07-06,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,53,7,50,0,4,3,1.42
-2026-07-06T15:11:10.774328+00:00,2026-07-06,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,29,4,48,0,4,3,1.31
-2026-07-06T15:11:10.774328+00:00,2026-07-06,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,71,9,50,0,4,3,1.38
-2026-07-07T15:11:10.774328+00:00,2026-07-07,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,643,107,124,6,24,14,2.18
-2026-07-07T15:11:10.774328+00:00,2026-07-07,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,46,6,49,0,4,3,1.25
-2026-07-07T15:11:10.774328+00:00,2026-07-07,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,54,7,51,0,4,3,1.42
-2026-07-07T15:11:10.774328+00:00,2026-07-07,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,31,4,51,0,4,3,1.31
-2026-07-07T15:11:10.774328+00:00,2026-07-07,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,71,9,49,0,4,3,1.38
-2026-07-08T15:11:10.774328+00:00,2026-07-08,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,687,109,133,6,24,14,2.18
-2026-07-08T15:11:10.774328+00:00,2026-07-08,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,47,6,50,0,4,3,1.25
-2026-07-08T15:11:10.774328+00:00,2026-07-08,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,54,7,51,0,4,3,1.42
-2026-07-08T15:11:10.774328+00:00,2026-07-08,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,31,4,51,0,4,3,1.31
-2026-07-08T15:11:10.774328+00:00,2026-07-08,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,69,9,48,0,4,3,1.38
-2026-07-09T15:11:10.774328+00:00,2026-07-09,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,638,106,123,6,24,14,2.18
-2026-07-09T15:11:10.774328+00:00,2026-07-09,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,48,6,51,0,4,3,1.25
-2026-07-09T15:11:10.774328+00:00,2026-07-09,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,52,7,49,0,4,3,1.42
-2026-07-09T15:11:10.774328+00:00,2026-07-09,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,30,4,48,0,4,3,1.31
-2026-07-09T15:11:10.774328+00:00,2026-07-09,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,71,9,49,0,4,3,1.38
-2026-07-10T15:11:10.774328+00:00,2026-07-10,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,655,109,126,6,24,14,2.18
-2026-07-10T15:11:10.774328+00:00,2026-07-10,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,47,6,50,0,4,3,1.25
-2026-07-10T15:11:10.774328+00:00,2026-07-10,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,50,7,48,0,4,3,1.42
-2026-07-10T15:11:10.774328+00:00,2026-07-10,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,31,4,51,0,4,3,1.31
-2026-07-10T15:11:10.774328+00:00,2026-07-10,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,73,9,51,0,4,3,1.38
-2026-07-11T15:11:10.774328+00:00,2026-07-11,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,678,109,131,6,24,14,2.18
-2026-07-11T15:11:10.774328+00:00,2026-07-11,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,46,6,49,0,4,3,1.25
-2026-07-11T15:11:10.774328+00:00,2026-07-11,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,53,7,50,0,4,3,1.42
-2026-07-11T15:11:10.774328+00:00,2026-07-11,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,30,4,48,0,4,3,1.31
-2026-07-11T15:11:10.774328+00:00,2026-07-11,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,71,9,49,0,4,3,1.38
-2026-07-12T15:11:10.774328+00:00,2026-07-12,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,648,108,125,6,25,14,2.18
-2026-07-12T15:11:10.774328+00:00,2026-07-12,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,47,6,50,0,4,3,1.25
-2026-07-12T15:11:10.774328+00:00,2026-07-12,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,54,7,51,0,4,3,1.42
-2026-07-12T15:11:10.774328+00:00,2026-07-12,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,32,4,52,0,4,3,1.31
-2026-07-12T15:11:10.774328+00:00,2026-07-12,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,75,9,52,0,4,3,1.38
-2026-07-13T15:11:10.774328+00:00,2026-07-13,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,6,25,14,2.18
-2026-07-13T15:11:10.774328+00:00,2026-07-13,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,49,6,52,0,4,3,1.25
-2026-07-13T15:11:10.774328+00:00,2026-07-13,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,51,7,48,0,4,3,1.42
-2026-07-13T15:11:10.774328+00:00,2026-07-13,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,32,4,52,0,4,3,1.31
-2026-07-13T15:11:10.774328+00:00,2026-07-13,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,74,9,52,0,4,3,1.38
-2026-07-14T15:11:10.774328+00:00,2026-07-14,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,690,109,133,6,25,14,2.18
-2026-07-14T15:11:10.774328+00:00,2026-07-14,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,47,6,50,0,4,3,1.25
-2026-07-14T15:11:10.774328+00:00,2026-07-14,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,54,7,51,0,4,3,1.42
-2026-07-14T15:11:10.774328+00:00,2026-07-14,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,32,4,51,0,4,3,1.31
-2026-07-14T15:11:10.774328+00:00,2026-07-14,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,75,9,52,0,4,3,1.38
-2026-07-15T15:11:10.774328+00:00,2026-07-15,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,673,109,130,6,25,14,2.18
-2026-07-15T15:11:10.774328+00:00,2026-07-15,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,50,6,53,0,4,3,1.25
-2026-07-15T15:11:10.774328+00:00,2026-07-15,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,56,8,53,0,4,3,1.42
-2026-07-15T15:11:10.774328+00:00,2026-07-15,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,30,4,49,0,4,3,1.31
-2026-07-15T15:11:10.774328+00:00,2026-07-15,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,75,9,53,0,4,3,1.38
-2026-07-16T15:11:10.774328+00:00,2026-07-16,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,663,109,128,6,25,14,2.18
-2026-07-16T15:11:10.774328+00:00,2026-07-16,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,48,6,51,0,4,3,1.25
-2026-07-16T15:11:10.774328+00:00,2026-07-16,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,57,8,54,0,4,3,1.42
-2026-07-16T15:11:10.774328+00:00,2026-07-16,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,31,4,51,0,4,3,1.31
-2026-07-16T15:11:10.774328+00:00,2026-07-16,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,72,9,50,0,4,3,1.38
-2026-07-17T15:11:10.774328+00:00,2026-07-17,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,667,109,129,6,25,15,2.18
-2026-07-17T15:11:10.774328+00:00,2026-07-17,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,48,6,51,0,4,3,1.25
-2026-07-17T15:11:10.774328+00:00,2026-07-17,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,56,8,53,0,4,3,1.42
-2026-07-17T15:11:10.774328+00:00,2026-07-17,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,33,5,54,0,4,3,1.31
-2026-07-17T15:11:10.774328+00:00,2026-07-17,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,75,9,53,0,4,3,1.38
-2026-07-18T15:11:10.774328+00:00,2026-07-18,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,663,109,128,6,25,15,2.18
-2026-07-18T15:11:10.774328+00:00,2026-07-18,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,47,6,50,0,4,3,1.25
-2026-07-18T15:11:10.774328+00:00,2026-07-18,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,54,8,51,0,4,3,1.42
-2026-07-18T15:11:10.774328+00:00,2026-07-18,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,33,5,54,0,4,3,1.31
-2026-07-18T15:11:10.774328+00:00,2026-07-18,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,75,9,52,0,4,3,1.38
-2026-07-19T15:11:10.774328+00:00,2026-07-19,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,6,26,15,2.18
-2026-07-19T15:11:10.774328+00:00,2026-07-19,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,49,6,52,0,4,3,1.25
-2026-07-19T15:11:10.774328+00:00,2026-07-19,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,55,8,52,0,4,3,1.42
-2026-07-19T15:11:10.774328+00:00,2026-07-19,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,31,4,50,0,4,3,1.31
-2026-07-19T15:11:10.774328+00:00,2026-07-19,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,78,10,54,0,4,3,1.38
-2026-07-20T15:11:10.774328+00:00,2026-07-20,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,6,26,15,2.18
-2026-07-20T15:11:10.774328+00:00,2026-07-20,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,49,6,52,0,4,3,1.25
-2026-07-20T15:11:10.774328+00:00,2026-07-20,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,56,8,52,0,4,3,1.42
-2026-07-20T15:11:10.774328+00:00,2026-07-20,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,32,4,51,0,4,3,1.31
-2026-07-20T15:11:10.774328+00:00,2026-07-20,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,75,9,52,0,4,3,1.38
-2026-07-21T15:11:10.774328+00:00,2026-07-21,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,688,109,133,6,26,15,2.18
-2026-07-21T15:11:10.774328+00:00,2026-07-21,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,49,6,52,0,4,3,1.25
-2026-07-21T15:11:10.774328+00:00,2026-07-21,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,59,8,55,0,4,3,1.42
-2026-07-21T15:11:10.774328+00:00,2026-07-21,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,34,5,55,0,4,3,1.31
-2026-07-21T15:11:10.774328+00:00,2026-07-21,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,75,9,52,0,4,3,1.38
-2026-07-22T15:11:10.774328+00:00,2026-07-22,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,6,26,15,2.18
-2026-07-22T15:11:10.774328+00:00,2026-07-22,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,52,6,55,0,4,3,1.25
-2026-07-22T15:11:10.774328+00:00,2026-07-22,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,56,8,53,0,4,3,1.42
-2026-07-22T15:11:10.774328+00:00,2026-07-22,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,33,5,54,0,4,3,1.31
-2026-07-22T15:11:10.774328+00:00,2026-07-22,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,77,10,54,0,4,3,1.38
-2026-07-23T15:11:10.774328+00:00,2026-07-23,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,6,26,15,2.18
-2026-07-23T15:11:10.774328+00:00,2026-07-23,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,51,6,54,0,4,3,1.25
-2026-07-23T15:11:10.774328+00:00,2026-07-23,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,59,8,56,0,4,3,1.42
-2026-07-23T15:11:10.774328+00:00,2026-07-23,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,33,5,54,0,4,3,1.31
-2026-07-23T15:11:10.774328+00:00,2026-07-23,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,75,9,52,0,4,3,1.38
-2026-07-24T15:11:10.774328+00:00,2026-07-24,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,6,26,15,2.18
-2026-07-24T15:11:10.774328+00:00,2026-07-24,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,52,6,55,0,4,3,1.25
-2026-07-24T15:11:10.774328+00:00,2026-07-24,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,54,8,51,0,4,3,1.42
-2026-07-24T15:11:10.774328+00:00,2026-07-24,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,34,5,55,0,4,3,1.31
-2026-07-24T15:11:10.774328+00:00,2026-07-24,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,76,9,53,0,4,3,1.38
-2026-07-25T15:11:10.774328+00:00,2026-07-25,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,688,109,133,6,26,15,2.18
-2026-07-25T15:11:10.774328+00:00,2026-07-25,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,52,6,56,0,4,3,1.25
-2026-07-25T15:11:10.774328+00:00,2026-07-25,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,57,8,54,0,4,3,1.42
-2026-07-25T15:11:10.774328+00:00,2026-07-25,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,32,4,53,0,4,3,1.31
-2026-07-25T15:11:10.774328+00:00,2026-07-25,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,77,10,54,0,4,3,1.38
-2026-07-26T15:11:10.774328+00:00,2026-07-26,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,6,27,15,2.18
-2026-07-26T15:11:10.774328+00:00,2026-07-26,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,51,6,54,0,4,3,1.25
-2026-07-26T15:11:10.774328+00:00,2026-07-26,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,59,8,56,0,4,3,1.42
-2026-07-26T15:11:10.774328+00:00,2026-07-26,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,34,5,56,0,4,3,1.31
-2026-07-26T15:11:10.774328+00:00,2026-07-26,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,78,10,55,0,4,3,1.38
-2026-07-27T15:11:10.774328+00:00,2026-07-27,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,6,27,15,2.18
-2026-07-27T15:11:10.774328+00:00,2026-07-27,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,50,6,53,0,4,3,1.25
-2026-07-27T15:11:10.774328+00:00,2026-07-27,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,60,8,57,0,4,3,1.42
-2026-07-27T15:11:10.774328+00:00,2026-07-27,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,32,4,53,0,4,3,1.31
-2026-07-27T15:11:10.774328+00:00,2026-07-27,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,80,10,56,0,4,3,1.38
-2026-07-28T15:11:10.774328+00:00,2026-07-28,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,6,27,15,2.18
-2026-07-28T15:11:10.774328+00:00,2026-07-28,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,50,6,54,0,4,3,1.25
-2026-07-28T15:11:10.774328+00:00,2026-07-28,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,58,8,55,0,4,3,1.42
-2026-07-28T15:11:10.774328+00:00,2026-07-28,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,34,5,56,0,4,3,1.31
-2026-07-28T15:11:10.774328+00:00,2026-07-28,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,76,9,53,0,4,3,1.38
-2026-07-29T15:11:10.774328+00:00,2026-07-29,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,6,27,16,2.18
-2026-07-29T15:11:10.774328+00:00,2026-07-29,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,52,6,56,0,4,3,1.25
-2026-07-29T15:11:10.774328+00:00,2026-07-29,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,60,8,57,0,4,3,1.42
-2026-07-29T15:11:10.774328+00:00,2026-07-29,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,35,5,57,0,4,3,1.31
-2026-07-29T15:11:10.774328+00:00,2026-07-29,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,80,10,56,0,4,3,1.38
-2026-07-30T15:11:10.774328+00:00,2026-07-30,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,6,27,16,2.18
-2026-07-30T15:11:10.774328+00:00,2026-07-30,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,54,7,57,0,4,3,1.25
-2026-07-30T15:11:10.774328+00:00,2026-07-30,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,62,9,58,0,4,3,1.42
-2026-07-30T15:11:10.774328+00:00,2026-07-30,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,36,5,58,0,4,3,1.31
-2026-07-30T15:11:10.774328+00:00,2026-07-30,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,82,10,57,0,4,3,1.38
-2026-07-31T15:11:10.774328+00:00,2026-07-31,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,6,27,16,2.18
-2026-07-31T15:11:10.774328+00:00,2026-07-31,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,53,7,56,0,4,3,1.25
-2026-07-31T15:11:10.774328+00:00,2026-07-31,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,58,8,54,0,4,3,1.42
-2026-07-31T15:11:10.774328+00:00,2026-07-31,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,33,5,54,0,4,3,1.31
-2026-07-31T15:11:10.774328+00:00,2026-07-31,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,82,10,57,0,4,3,1.38
-2026-08-01T15:11:10.774328+00:00,2026-08-01,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,6,27,16,2.18
-2026-08-01T15:11:10.774328+00:00,2026-08-01,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,54,7,57,0,4,3,1.25
-2026-08-01T15:11:10.774328+00:00,2026-08-01,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,58,8,55,0,4,3,1.42
-2026-08-01T15:11:10.774328+00:00,2026-08-01,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,33,5,54,0,4,3,1.31
-2026-08-01T15:11:10.774328+00:00,2026-08-01,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,84,10,59,0,4,3,1.38
-2026-08-02T15:11:10.774328+00:00,2026-08-02,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,28,16,2.18
-2026-08-02T15:11:10.774328+00:00,2026-08-02,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,53,7,57,0,4,3,1.25
-2026-08-02T15:11:10.774328+00:00,2026-08-02,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,63,9,59,0,4,3,1.42
-2026-08-02T15:11:10.774328+00:00,2026-08-02,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,33,5,54,0,4,3,1.31
-2026-08-02T15:11:10.774328+00:00,2026-08-02,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,78,10,54,0,4,3,1.38
-2026-08-03T15:11:10.774328+00:00,2026-08-03,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,28,16,2.18
-2026-08-03T15:11:10.774328+00:00,2026-08-03,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,52,6,55,0,4,3,1.25
-2026-08-03T15:11:10.774328+00:00,2026-08-03,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,60,8,57,0,4,3,1.42
-2026-08-03T15:11:10.774328+00:00,2026-08-03,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,35,5,56,0,4,3,1.31
-2026-08-03T15:11:10.774328+00:00,2026-08-03,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,78,10,55,0,4,3,1.38
-2026-08-04T15:11:10.774328+00:00,2026-08-04,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,28,16,2.18
-2026-08-04T15:11:10.774328+00:00,2026-08-04,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,53,6,56,0,4,3,1.25
-2026-08-04T15:11:10.774328+00:00,2026-08-04,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,61,8,57,0,4,3,1.42
-2026-08-04T15:11:10.774328+00:00,2026-08-04,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,33,5,54,0,4,3,1.31
-2026-08-04T15:11:10.774328+00:00,2026-08-04,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,83,10,58,0,4,3,1.38
-2026-08-05T15:11:10.774328+00:00,2026-08-05,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,28,16,2.18
-2026-08-05T15:11:10.774328+00:00,2026-08-05,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,53,6,56,0,4,3,1.25
-2026-08-05T15:11:10.774328+00:00,2026-08-05,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,59,8,55,0,4,3,1.42
-2026-08-05T15:11:10.774328+00:00,2026-08-05,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,35,5,58,0,4,3,1.31
-2026-08-05T15:11:10.774328+00:00,2026-08-05,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,83,10,58,0,4,3,1.38
-2026-08-06T15:11:10.774328+00:00,2026-08-06,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,28,16,2.18
-2026-08-06T15:11:10.774328+00:00,2026-08-06,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,52,6,56,0,4,3,1.25
-2026-08-06T15:11:10.774328+00:00,2026-08-06,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,59,8,56,0,4,3,1.42
-2026-08-06T15:11:10.774328+00:00,2026-08-06,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,36,5,58,0,4,3,1.31
-2026-08-06T15:11:10.774328+00:00,2026-08-06,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,82,10,57,0,4,3,1.38
-2026-08-07T15:11:10.774328+00:00,2026-08-07,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,28,16,2.18
-2026-08-07T15:11:10.774328+00:00,2026-08-07,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,54,7,58,0,4,3,1.25
-2026-08-07T15:11:10.774328+00:00,2026-08-07,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,59,8,55,0,4,3,1.42
-2026-08-07T15:11:10.774328+00:00,2026-08-07,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,37,5,60,0,4,3,1.31
-2026-08-07T15:11:10.774328+00:00,2026-08-07,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,84,10,59,0,4,3,1.38
-2026-08-08T15:11:10.774328+00:00,2026-08-08,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,28,16,2.18
-2026-08-08T15:11:10.774328+00:00,2026-08-08,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,57,7,61,0,4,3,1.25
-2026-08-08T15:11:10.774328+00:00,2026-08-08,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,61,8,57,0,4,3,1.42
-2026-08-08T15:11:10.774328+00:00,2026-08-08,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,35,5,57,0,4,3,1.31
-2026-08-08T15:11:10.774328+00:00,2026-08-08,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,80,10,56,0,4,3,1.38
-2026-08-09T15:11:10.774328+00:00,2026-08-09,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,29,16,2.18
-2026-08-09T15:11:10.774328+00:00,2026-08-09,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,54,7,58,0,4,3,1.25
-2026-08-09T15:11:10.774328+00:00,2026-08-09,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,64,9,61,0,4,3,1.42
-2026-08-09T15:11:10.774328+00:00,2026-08-09,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,34,5,56,0,4,3,1.31
-2026-08-09T15:11:10.774328+00:00,2026-08-09,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,81,10,56,0,4,3,1.38
-2026-08-10T15:11:10.774328+00:00,2026-08-10,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,29,17,2.18
-2026-08-10T15:11:10.774328+00:00,2026-08-10,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,56,7,60,0,4,3,1.25
-2026-08-10T15:11:10.774328+00:00,2026-08-10,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,63,9,60,0,4,3,1.42
-2026-08-10T15:11:10.774328+00:00,2026-08-10,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,36,5,59,0,4,3,1.31
-2026-08-10T15:11:10.774328+00:00,2026-08-10,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,81,10,57,0,4,3,1.38
-2026-08-11T15:11:10.774328+00:00,2026-08-11,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,29,17,2.18
-2026-08-11T15:11:10.774328+00:00,2026-08-11,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,55,7,59,0,4,3,1.25
-2026-08-11T15:11:10.774328+00:00,2026-08-11,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,63,9,59,0,4,3,1.42
-2026-08-11T15:11:10.774328+00:00,2026-08-11,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,36,5,59,0,4,3,1.31
-2026-08-11T15:11:10.774328+00:00,2026-08-11,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,85,11,59,0,4,3,1.38
-2026-08-12T15:11:10.774328+00:00,2026-08-12,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,29,17,2.18
-2026-08-12T15:11:10.774328+00:00,2026-08-12,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,55,7,59,0,4,3,1.25
-2026-08-12T15:11:10.774328+00:00,2026-08-12,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,62,9,59,0,4,3,1.42
-2026-08-12T15:11:10.774328+00:00,2026-08-12,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,36,5,58,0,4,3,1.31
-2026-08-12T15:11:10.774328+00:00,2026-08-12,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,85,11,60,0,4,3,1.38
-2026-08-13T15:11:10.774328+00:00,2026-08-13,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,29,17,2.18
-2026-08-13T15:11:10.774328+00:00,2026-08-13,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,54,7,57,0,4,3,1.25
-2026-08-13T15:11:10.774328+00:00,2026-08-13,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,60,8,57,0,4,3,1.42
-2026-08-13T15:11:10.774328+00:00,2026-08-13,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,35,5,57,0,4,3,1.31
-2026-08-13T15:11:10.774328+00:00,2026-08-13,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,81,10,57,0,4,3,1.38
-2026-08-14T15:11:10.774328+00:00,2026-08-14,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,29,17,2.18
-2026-08-14T15:11:10.774328+00:00,2026-08-14,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,58,7,62,0,4,3,1.25
-2026-08-14T15:11:10.774328+00:00,2026-08-14,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,61,8,58,0,4,3,1.42
-2026-08-14T15:11:10.774328+00:00,2026-08-14,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,38,5,62,0,4,3,1.31
-2026-08-14T15:11:10.774328+00:00,2026-08-14,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,84,11,59,0,4,3,1.38
-2026-08-15T15:11:10.774328+00:00,2026-08-15,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,29,17,2.18
-2026-08-15T15:11:10.774328+00:00,2026-08-15,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,57,7,60,0,4,3,1.25
-2026-08-15T15:11:10.774328+00:00,2026-08-15,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,65,9,61,0,4,3,1.42
-2026-08-15T15:11:10.774328+00:00,2026-08-15,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,38,5,62,0,4,3,1.31
-2026-08-15T15:11:10.774328+00:00,2026-08-15,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,86,11,60,0,4,3,1.38
-2026-08-16T15:11:10.774328+00:00,2026-08-16,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,30,17,2.18
-2026-08-16T15:11:10.774328+00:00,2026-08-16,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,58,7,61,0,5,3,1.25
-2026-08-16T15:11:10.774328+00:00,2026-08-16,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,66,9,62,0,5,3,1.42
-2026-08-16T15:11:10.774328+00:00,2026-08-16,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,36,5,58,0,5,3,1.31
-2026-08-16T15:11:10.774328+00:00,2026-08-16,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,89,11,62,0,5,3,1.38
-2026-08-17T15:11:10.774328+00:00,2026-08-17,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,30,17,2.18
-2026-08-17T15:11:10.774328+00:00,2026-08-17,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,55,7,59,0,5,3,1.25
-2026-08-17T15:11:10.774328+00:00,2026-08-17,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,64,9,60,0,5,3,1.42
-2026-08-17T15:11:10.774328+00:00,2026-08-17,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,39,5,63,0,5,3,1.31
-2026-08-17T15:11:10.774328+00:00,2026-08-17,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,85,11,59,0,5,3,1.38
-2026-08-18T15:11:10.774328+00:00,2026-08-18,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,30,17,2.18
-2026-08-18T15:11:10.774328+00:00,2026-08-18,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,60,7,64,0,5,3,1.25
-2026-08-18T15:11:10.774328+00:00,2026-08-18,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,64,9,60,0,5,3,1.42
-2026-08-18T15:11:10.774328+00:00,2026-08-18,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,39,5,64,0,5,3,1.31
-2026-08-18T15:11:10.774328+00:00,2026-08-18,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,91,11,64,0,5,3,1.38
-2026-08-19T15:11:10.774328+00:00,2026-08-19,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,30,17,2.18
-2026-08-19T15:11:10.774328+00:00,2026-08-19,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,55,7,58,0,5,3,1.25
-2026-08-19T15:11:10.774328+00:00,2026-08-19,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,68,9,64,0,5,3,1.42
-2026-08-19T15:11:10.774328+00:00,2026-08-19,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,39,5,63,0,5,3,1.31
-2026-08-19T15:11:10.774328+00:00,2026-08-19,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,90,11,63,0,5,3,1.38
-2026-08-20T15:11:10.774328+00:00,2026-08-20,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,30,17,2.18
-2026-08-20T15:11:10.774328+00:00,2026-08-20,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,61,7,64,0,5,3,1.25
-2026-08-20T15:11:10.774328+00:00,2026-08-20,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,66,9,63,0,5,3,1.42
-2026-08-20T15:11:10.774328+00:00,2026-08-20,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,38,5,63,0,5,3,1.31
-2026-08-20T15:11:10.774328+00:00,2026-08-20,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,88,11,61,0,5,3,1.38
-2026-08-21T15:11:10.774328+00:00,2026-08-21,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,30,17,2.18
-2026-08-21T15:11:10.774328+00:00,2026-08-21,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,61,7,65,0,5,3,1.25
-2026-08-21T15:11:10.774328+00:00,2026-08-21,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,68,9,64,0,5,3,1.42
-2026-08-21T15:11:10.774328+00:00,2026-08-21,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,39,5,63,0,5,3,1.31
-2026-08-21T15:11:10.774328+00:00,2026-08-21,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,91,11,63,0,5,3,1.38
-2026-08-22T15:11:10.774328+00:00,2026-08-22,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,30,18,2.18
-2026-08-22T15:11:10.774328+00:00,2026-08-22,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,59,7,62,0,5,3,1.25
-2026-08-22T15:11:10.774328+00:00,2026-08-22,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,69,9,65,0,5,3,1.42
-2026-08-22T15:11:10.774328+00:00,2026-08-22,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,40,5,64,0,5,3,1.31
-2026-08-22T15:11:10.774328+00:00,2026-08-22,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,88,11,62,0,5,3,1.38
-2026-08-23T15:11:10.774328+00:00,2026-08-23,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,31,18,2.18
-2026-08-23T15:11:10.774328+00:00,2026-08-23,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,56,7,60,0,5,3,1.25
-2026-08-23T15:11:10.774328+00:00,2026-08-23,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,69,9,65,0,5,3,1.42
-2026-08-23T15:11:10.774328+00:00,2026-08-23,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,39,5,64,0,5,3,1.31
-2026-08-23T15:11:10.774328+00:00,2026-08-23,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,88,11,61,0,5,3,1.38
-2026-08-24T15:11:10.774328+00:00,2026-08-24,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,31,18,2.18
-2026-08-24T15:11:10.774328+00:00,2026-08-24,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,56,7,60,0,5,3,1.25
-2026-08-24T15:11:10.774328+00:00,2026-08-24,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,67,9,63,0,5,3,1.42
-2026-08-24T15:11:10.774328+00:00,2026-08-24,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,39,5,64,0,5,3,1.31
-2026-08-24T15:11:10.774328+00:00,2026-08-24,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,90,11,63,0,5,3,1.38
-2026-08-25T15:11:10.774328+00:00,2026-08-25,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,31,18,2.18
-2026-08-25T15:11:10.774328+00:00,2026-08-25,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,58,7,62,0,5,3,1.25
-2026-08-25T15:11:10.774328+00:00,2026-08-25,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,64,9,60,0,5,3,1.42
-2026-08-25T15:11:10.774328+00:00,2026-08-25,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,40,5,66,0,5,3,1.31
-2026-08-25T15:11:10.774328+00:00,2026-08-25,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,88,11,61,0,5,3,1.38
-2026-08-26T15:11:10.774328+00:00,2026-08-26,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,31,18,2.18
-2026-08-26T15:11:10.774328+00:00,2026-08-26,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,60,7,64,0,5,3,1.25
-2026-08-26T15:11:10.774328+00:00,2026-08-26,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,70,9,66,0,5,3,1.42
-2026-08-26T15:11:10.774328+00:00,2026-08-26,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,39,5,64,0,5,3,1.31
-2026-08-26T15:11:10.774328+00:00,2026-08-26,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,86,11,60,0,5,3,1.38
-2026-08-27T15:11:10.774328+00:00,2026-08-27,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,31,18,2.18
-2026-08-27T15:11:10.774328+00:00,2026-08-27,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,62,7,66,0,5,3,1.25
-2026-08-27T15:11:10.774328+00:00,2026-08-27,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,70,9,66,0,5,3,1.42
-2026-08-27T15:11:10.774328+00:00,2026-08-27,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,40,5,65,0,5,3,1.31
-2026-08-27T15:11:10.774328+00:00,2026-08-27,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,89,11,62,0,5,3,1.38
-2026-08-28T15:11:10.774328+00:00,2026-08-28,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,31,18,2.18
-2026-08-28T15:11:10.774328+00:00,2026-08-28,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,57,7,61,0,5,3,1.25
-2026-08-28T15:11:10.774328+00:00,2026-08-28,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,69,9,65,0,5,3,1.42
-2026-08-28T15:11:10.774328+00:00,2026-08-28,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,39,5,63,0,5,3,1.31
-2026-08-28T15:11:10.774328+00:00,2026-08-28,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,88,11,62,0,5,3,1.38
-2026-08-29T15:11:10.774328+00:00,2026-08-29,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,31,18,2.18
-2026-08-29T15:11:10.774328+00:00,2026-08-29,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,62,7,66,0,5,3,1.25
-2026-08-29T15:11:10.774328+00:00,2026-08-29,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,66,9,63,0,5,3,1.42
-2026-08-29T15:11:10.774328+00:00,2026-08-29,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,38,5,62,0,5,3,1.31
-2026-08-29T15:11:10.774328+00:00,2026-08-29,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,89,11,63,0,5,3,1.38
-2026-08-30T15:11:10.774328+00:00,2026-08-30,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,31,18,2.18
-2026-08-30T15:11:10.774328+00:00,2026-08-30,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,60,7,63,0,5,3,1.25
-2026-08-30T15:11:10.774328+00:00,2026-08-30,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,69,9,65,0,5,3,1.42
-2026-08-30T15:11:10.774328+00:00,2026-08-30,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,39,5,64,0,5,3,1.31
-2026-08-30T15:11:10.774328+00:00,2026-08-30,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,88,11,61,0,5,3,1.38
-2026-08-31T15:11:10.774328+00:00,2026-08-31,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,8,32,18,2.18
-2026-08-31T15:11:10.774328+00:00,2026-08-31,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,62,7,66,0,5,4,1.25
-2026-08-31T15:11:10.774328+00:00,2026-08-31,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,67,9,63,0,5,4,1.42
-2026-08-31T15:11:10.774328+00:00,2026-08-31,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,39,5,64,0,5,4,1.31
-2026-08-31T15:11:10.774328+00:00,2026-08-31,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,96,11,67,0,5,4,1.38
-2026-09-01T15:11:10.774328+00:00,2026-09-01,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,8,32,18,2.18
-2026-09-01T15:11:10.774328+00:00,2026-09-01,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,60,7,64,0,5,4,1.25
-2026-09-01T15:11:10.774328+00:00,2026-09-01,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,66,9,63,0,5,4,1.42
-2026-09-01T15:11:10.774328+00:00,2026-09-01,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,41,5,67,0,5,4,1.31
-2026-09-01T15:11:10.774328+00:00,2026-09-01,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,91,11,63,0,5,4,1.38
-2026-09-02T15:11:10.774328+00:00,2026-09-02,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,8,32,18,2.18
-2026-09-02T15:11:10.774328+00:00,2026-09-02,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,63,7,67,0,5,4,1.25
-2026-09-02T15:11:10.774328+00:00,2026-09-02,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,66,9,62,0,5,4,1.42
-2026-09-02T15:11:10.774328+00:00,2026-09-02,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,39,5,64,0,5,4,1.31
-2026-09-02T15:11:10.774328+00:00,2026-09-02,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,96,11,67,0,5,4,1.38
+2026-07-04T16:02:45.748179+00:00,2026-07-04,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,665,109,128,6,24,14,2.18
+2026-07-04T16:02:45.748179+00:00,2026-07-04,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,47,6,50,0,4,3,1.25
+2026-07-04T16:02:45.748179+00:00,2026-07-04,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,51,7,48,0,4,3,1.42
+2026-07-04T16:02:45.748179+00:00,2026-07-04,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,30,4,49,0,4,3,1.31
+2026-07-04T16:02:45.748179+00:00,2026-07-04,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,67,8,47,0,4,3,1.38
+2026-07-05T16:02:45.748179+00:00,2026-07-05,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,669,109,129,6,24,14,2.18
+2026-07-05T16:02:45.748179+00:00,2026-07-05,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,44,5,46,0,4,3,1.25
+2026-07-05T16:02:45.748179+00:00,2026-07-05,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,49,7,46,0,4,3,1.42
+2026-07-05T16:02:45.748179+00:00,2026-07-05,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,28,4,46,0,4,3,1.31
+2026-07-05T16:02:45.748179+00:00,2026-07-05,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,73,9,51,0,4,3,1.38
+2026-07-06T16:02:45.748179+00:00,2026-07-06,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,620,103,120,0,24,14,2.18
+2026-07-06T16:02:45.748179+00:00,2026-07-06,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,48,6,51,0,4,3,1.25
+2026-07-06T16:02:45.748179+00:00,2026-07-06,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,51,7,49,0,4,3,1.42
+2026-07-06T16:02:45.748179+00:00,2026-07-06,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,29,4,47,0,4,3,1.31
+2026-07-06T16:02:45.748179+00:00,2026-07-06,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,67,8,47,0,4,3,1.38
+2026-07-07T16:02:45.748179+00:00,2026-07-07,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,657,109,127,6,24,14,2.18
+2026-07-07T16:02:45.748179+00:00,2026-07-07,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,47,6,50,0,4,3,1.25
+2026-07-07T16:02:45.748179+00:00,2026-07-07,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,54,7,51,0,4,3,1.42
+2026-07-07T16:02:45.748179+00:00,2026-07-07,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,31,4,51,0,4,3,1.31
+2026-07-07T16:02:45.748179+00:00,2026-07-07,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,73,9,51,0,4,3,1.38
+2026-07-08T16:02:45.748179+00:00,2026-07-08,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,627,105,121,0,24,14,2.18
+2026-07-08T16:02:45.748179+00:00,2026-07-08,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,46,6,49,0,4,3,1.25
+2026-07-08T16:02:45.748179+00:00,2026-07-08,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,51,7,48,0,4,3,1.42
+2026-07-08T16:02:45.748179+00:00,2026-07-08,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,29,4,48,0,4,3,1.31
+2026-07-08T16:02:45.748179+00:00,2026-07-08,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,67,8,47,0,4,3,1.38
+2026-07-09T16:02:45.748179+00:00,2026-07-09,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,671,109,130,6,24,14,2.18
+2026-07-09T16:02:45.748179+00:00,2026-07-09,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,47,6,50,0,4,3,1.25
+2026-07-09T16:02:45.748179+00:00,2026-07-09,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,51,7,48,0,4,3,1.42
+2026-07-09T16:02:45.748179+00:00,2026-07-09,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,30,4,49,0,4,3,1.31
+2026-07-09T16:02:45.748179+00:00,2026-07-09,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,69,8,48,0,4,3,1.38
+2026-07-10T16:02:45.748179+00:00,2026-07-10,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,635,106,123,6,24,14,2.18
+2026-07-10T16:02:45.748179+00:00,2026-07-10,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,46,6,49,0,4,3,1.25
+2026-07-10T16:02:45.748179+00:00,2026-07-10,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,54,7,51,0,4,3,1.42
+2026-07-10T16:02:45.748179+00:00,2026-07-10,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,30,4,49,0,4,3,1.31
+2026-07-10T16:02:45.748179+00:00,2026-07-10,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,73,9,51,0,4,3,1.38
+2026-07-11T16:02:45.748179+00:00,2026-07-11,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,685,109,132,6,24,14,2.18
+2026-07-11T16:02:45.748179+00:00,2026-07-11,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,49,6,52,0,4,3,1.25
+2026-07-11T16:02:45.748179+00:00,2026-07-11,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,51,7,48,0,4,3,1.42
+2026-07-11T16:02:45.748179+00:00,2026-07-11,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,31,4,50,0,4,3,1.31
+2026-07-11T16:02:45.748179+00:00,2026-07-11,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,74,9,51,0,4,3,1.38
+2026-07-12T16:02:45.748179+00:00,2026-07-12,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,662,109,128,6,25,14,2.18
+2026-07-12T16:02:45.748179+00:00,2026-07-12,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,46,6,49,0,4,3,1.25
+2026-07-12T16:02:45.748179+00:00,2026-07-12,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,53,7,50,0,4,3,1.42
+2026-07-12T16:02:45.748179+00:00,2026-07-12,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,32,4,52,0,4,3,1.31
+2026-07-12T16:02:45.748179+00:00,2026-07-12,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,75,9,52,0,4,3,1.38
+2026-07-13T16:02:45.748179+00:00,2026-07-13,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,645,108,125,6,25,14,2.18
+2026-07-13T16:02:45.748179+00:00,2026-07-13,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,47,6,49,0,4,3,1.25
+2026-07-13T16:02:45.748179+00:00,2026-07-13,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,52,7,49,0,4,3,1.42
+2026-07-13T16:02:45.748179+00:00,2026-07-13,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,30,4,49,0,4,3,1.31
+2026-07-13T16:02:45.748179+00:00,2026-07-13,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,72,9,50,0,4,3,1.38
+2026-07-14T16:02:45.748179+00:00,2026-07-14,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,6,25,14,2.18
+2026-07-14T16:02:45.748179+00:00,2026-07-14,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,47,6,50,0,4,3,1.25
+2026-07-14T16:02:45.748179+00:00,2026-07-14,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,52,7,49,0,4,3,1.42
+2026-07-14T16:02:45.748179+00:00,2026-07-14,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,31,4,50,0,4,3,1.31
+2026-07-14T16:02:45.748179+00:00,2026-07-14,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,74,9,52,0,4,3,1.38
+2026-07-15T16:02:45.748179+00:00,2026-07-15,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,6,25,14,2.18
+2026-07-15T16:02:45.748179+00:00,2026-07-15,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,50,6,53,0,4,3,1.25
+2026-07-15T16:02:45.748179+00:00,2026-07-15,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,52,7,50,0,4,3,1.42
+2026-07-15T16:02:45.748179+00:00,2026-07-15,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,30,4,50,0,4,3,1.31
+2026-07-15T16:02:45.748179+00:00,2026-07-15,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,73,9,51,0,4,3,1.38
+2026-07-16T16:02:45.748179+00:00,2026-07-16,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,656,109,127,6,25,14,2.18
+2026-07-16T16:02:45.748179+00:00,2026-07-16,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,47,6,50,0,4,3,1.25
+2026-07-16T16:02:45.748179+00:00,2026-07-16,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,56,8,53,0,4,3,1.42
+2026-07-16T16:02:45.748179+00:00,2026-07-16,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,32,4,51,0,4,3,1.31
+2026-07-16T16:02:45.748179+00:00,2026-07-16,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,74,9,52,0,4,3,1.38
+2026-07-17T16:02:45.748179+00:00,2026-07-17,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,667,109,129,6,25,15,2.18
+2026-07-17T16:02:45.748179+00:00,2026-07-17,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,49,6,52,0,4,3,1.25
+2026-07-17T16:02:45.748179+00:00,2026-07-17,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,54,7,51,0,4,3,1.42
+2026-07-17T16:02:45.748179+00:00,2026-07-17,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,33,5,54,0,4,3,1.31
+2026-07-17T16:02:45.748179+00:00,2026-07-17,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,76,9,53,0,4,3,1.38
+2026-07-18T16:02:45.748179+00:00,2026-07-18,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,684,109,132,6,25,15,2.18
+2026-07-18T16:02:45.748179+00:00,2026-07-18,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,47,6,50,0,4,3,1.25
+2026-07-18T16:02:45.748179+00:00,2026-07-18,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,57,8,54,0,4,3,1.42
+2026-07-18T16:02:45.748179+00:00,2026-07-18,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,33,4,53,0,4,3,1.31
+2026-07-18T16:02:45.748179+00:00,2026-07-18,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,77,10,54,0,4,3,1.38
+2026-07-19T16:02:45.748179+00:00,2026-07-19,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,6,26,15,2.18
+2026-07-19T16:02:45.748179+00:00,2026-07-19,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,50,6,53,0,4,3,1.25
+2026-07-19T16:02:45.748179+00:00,2026-07-19,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,53,7,50,0,4,3,1.42
+2026-07-19T16:02:45.748179+00:00,2026-07-19,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,32,4,52,0,4,3,1.31
+2026-07-19T16:02:45.748179+00:00,2026-07-19,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,77,10,54,0,4,3,1.38
+2026-07-20T16:02:45.748179+00:00,2026-07-20,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,6,26,15,2.18
+2026-07-20T16:02:45.748179+00:00,2026-07-20,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,51,6,55,0,4,3,1.25
+2026-07-20T16:02:45.748179+00:00,2026-07-20,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,53,7,50,0,4,3,1.42
+2026-07-20T16:02:45.748179+00:00,2026-07-20,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,33,5,54,0,4,3,1.31
+2026-07-20T16:02:45.748179+00:00,2026-07-20,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,72,9,50,0,4,3,1.38
+2026-07-21T16:02:45.748179+00:00,2026-07-21,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,6,26,15,2.18
+2026-07-21T16:02:45.748179+00:00,2026-07-21,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,49,6,52,0,4,3,1.25
+2026-07-21T16:02:45.748179+00:00,2026-07-21,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,56,8,53,0,4,3,1.42
+2026-07-21T16:02:45.748179+00:00,2026-07-21,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,34,5,55,0,4,3,1.31
+2026-07-21T16:02:45.748179+00:00,2026-07-21,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,75,9,53,0,4,3,1.38
+2026-07-22T16:02:45.748179+00:00,2026-07-22,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,677,109,131,6,26,15,2.18
+2026-07-22T16:02:45.748179+00:00,2026-07-22,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,48,6,51,0,4,3,1.25
+2026-07-22T16:02:45.748179+00:00,2026-07-22,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,54,8,51,0,4,3,1.42
+2026-07-22T16:02:45.748179+00:00,2026-07-22,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,32,4,53,0,4,3,1.31
+2026-07-22T16:02:45.748179+00:00,2026-07-22,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,73,9,51,0,4,3,1.38
+2026-07-23T16:02:45.748179+00:00,2026-07-23,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,681,109,132,6,26,15,2.18
+2026-07-23T16:02:45.748179+00:00,2026-07-23,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,51,6,54,0,4,3,1.25
+2026-07-23T16:02:45.748179+00:00,2026-07-23,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,58,8,55,0,4,3,1.42
+2026-07-23T16:02:45.748179+00:00,2026-07-23,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,34,5,56,0,4,3,1.31
+2026-07-23T16:02:45.748179+00:00,2026-07-23,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,73,9,51,0,4,3,1.38
+2026-07-24T16:02:45.748179+00:00,2026-07-24,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,6,26,15,2.18
+2026-07-24T16:02:45.748179+00:00,2026-07-24,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,52,6,55,0,4,3,1.25
+2026-07-24T16:02:45.748179+00:00,2026-07-24,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,56,8,53,0,4,3,1.42
+2026-07-24T16:02:45.748179+00:00,2026-07-24,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,33,4,53,0,4,3,1.31
+2026-07-24T16:02:45.748179+00:00,2026-07-24,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,79,10,55,0,4,3,1.38
+2026-07-25T16:02:45.748179+00:00,2026-07-25,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,6,26,15,2.18
+2026-07-25T16:02:45.748179+00:00,2026-07-25,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,51,6,54,0,4,3,1.25
+2026-07-25T16:02:45.748179+00:00,2026-07-25,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,58,8,55,0,4,3,1.42
+2026-07-25T16:02:45.748179+00:00,2026-07-25,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,34,5,56,0,4,3,1.31
+2026-07-25T16:02:45.748179+00:00,2026-07-25,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,79,10,55,0,4,3,1.38
+2026-07-26T16:02:45.748179+00:00,2026-07-26,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,6,27,15,2.18
+2026-07-26T16:02:45.748179+00:00,2026-07-26,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,49,6,52,0,4,3,1.25
+2026-07-26T16:02:45.748179+00:00,2026-07-26,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,60,8,56,0,4,3,1.42
+2026-07-26T16:02:45.748179+00:00,2026-07-26,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,32,4,53,0,4,3,1.31
+2026-07-26T16:02:45.748179+00:00,2026-07-26,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,78,10,54,0,4,3,1.38
+2026-07-27T16:02:45.748179+00:00,2026-07-27,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,6,27,15,2.18
+2026-07-27T16:02:45.748179+00:00,2026-07-27,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,52,6,55,0,4,3,1.25
+2026-07-27T16:02:45.748179+00:00,2026-07-27,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,55,8,52,0,4,3,1.42
+2026-07-27T16:02:45.748179+00:00,2026-07-27,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,35,5,57,0,4,3,1.31
+2026-07-27T16:02:45.748179+00:00,2026-07-27,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,82,10,57,0,4,3,1.38
+2026-07-28T16:02:45.748179+00:00,2026-07-28,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,6,27,15,2.18
+2026-07-28T16:02:45.748179+00:00,2026-07-28,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,51,6,54,0,4,3,1.25
+2026-07-28T16:02:45.748179+00:00,2026-07-28,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,59,8,56,0,4,3,1.42
+2026-07-28T16:02:45.748179+00:00,2026-07-28,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,35,5,56,0,4,3,1.31
+2026-07-28T16:02:45.748179+00:00,2026-07-28,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,78,10,54,0,4,3,1.38
+2026-07-29T16:02:45.748179+00:00,2026-07-29,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,6,27,16,2.18
+2026-07-29T16:02:45.748179+00:00,2026-07-29,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,54,7,58,0,4,3,1.25
+2026-07-29T16:02:45.748179+00:00,2026-07-29,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,57,8,54,0,4,3,1.42
+2026-07-29T16:02:45.748179+00:00,2026-07-29,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,33,5,54,0,4,3,1.31
+2026-07-29T16:02:45.748179+00:00,2026-07-29,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,76,9,53,0,4,3,1.38
+2026-07-30T16:02:45.748179+00:00,2026-07-30,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,6,27,16,2.18
+2026-07-30T16:02:45.748179+00:00,2026-07-30,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,50,6,54,0,4,3,1.25
+2026-07-30T16:02:45.748179+00:00,2026-07-30,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,62,9,58,0,4,3,1.42
+2026-07-30T16:02:45.748179+00:00,2026-07-30,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,33,5,54,0,4,3,1.31
+2026-07-30T16:02:45.748179+00:00,2026-07-30,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,77,10,54,0,4,3,1.38
+2026-07-31T16:02:45.748179+00:00,2026-07-31,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,6,27,16,2.18
+2026-07-31T16:02:45.748179+00:00,2026-07-31,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,51,6,54,0,4,3,1.25
+2026-07-31T16:02:45.748179+00:00,2026-07-31,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,58,8,55,0,4,3,1.42
+2026-07-31T16:02:45.748179+00:00,2026-07-31,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,34,5,55,0,4,3,1.31
+2026-07-31T16:02:45.748179+00:00,2026-07-31,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,83,10,58,0,4,3,1.38
+2026-08-01T16:02:45.748179+00:00,2026-08-01,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,6,27,16,2.18
+2026-08-01T16:02:45.748179+00:00,2026-08-01,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,53,7,56,0,4,3,1.25
+2026-08-01T16:02:45.748179+00:00,2026-08-01,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,57,8,54,0,4,3,1.42
+2026-08-01T16:02:45.748179+00:00,2026-08-01,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,35,5,56,0,4,3,1.31
+2026-08-01T16:02:45.748179+00:00,2026-08-01,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,78,10,55,0,4,3,1.38
+2026-08-02T16:02:45.748179+00:00,2026-08-02,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,28,16,2.18
+2026-08-02T16:02:45.748179+00:00,2026-08-02,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,55,7,58,0,4,3,1.25
+2026-08-02T16:02:45.748179+00:00,2026-08-02,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,57,8,54,0,4,3,1.42
+2026-08-02T16:02:45.748179+00:00,2026-08-02,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,33,5,54,0,4,3,1.31
+2026-08-02T16:02:45.748179+00:00,2026-08-02,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,79,10,55,0,4,3,1.38
+2026-08-03T16:02:45.748179+00:00,2026-08-03,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,28,16,2.18
+2026-08-03T16:02:45.748179+00:00,2026-08-03,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,51,6,54,0,4,3,1.25
+2026-08-03T16:02:45.748179+00:00,2026-08-03,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,59,8,56,0,4,3,1.42
+2026-08-03T16:02:45.748179+00:00,2026-08-03,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,34,5,56,0,4,3,1.31
+2026-08-03T16:02:45.748179+00:00,2026-08-03,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,77,10,54,0,4,3,1.38
+2026-08-04T16:02:45.748179+00:00,2026-08-04,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,28,16,2.18
+2026-08-04T16:02:45.748179+00:00,2026-08-04,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,56,7,60,0,4,3,1.25
+2026-08-04T16:02:45.748179+00:00,2026-08-04,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,60,8,57,0,4,3,1.42
+2026-08-04T16:02:45.748179+00:00,2026-08-04,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,36,5,58,0,4,3,1.31
+2026-08-04T16:02:45.748179+00:00,2026-08-04,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,82,10,57,0,4,3,1.38
+2026-08-05T16:02:45.748179+00:00,2026-08-05,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,28,16,2.18
+2026-08-05T16:02:45.748179+00:00,2026-08-05,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,55,7,59,0,4,3,1.25
+2026-08-05T16:02:45.748179+00:00,2026-08-05,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,63,9,59,0,4,3,1.42
+2026-08-05T16:02:45.748179+00:00,2026-08-05,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,35,5,58,0,4,3,1.31
+2026-08-05T16:02:45.748179+00:00,2026-08-05,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,78,10,55,0,4,3,1.38
+2026-08-06T16:02:45.748179+00:00,2026-08-06,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,28,16,2.18
+2026-08-06T16:02:45.748179+00:00,2026-08-06,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,52,6,55,0,4,3,1.25
+2026-08-06T16:02:45.748179+00:00,2026-08-06,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,59,8,56,0,4,3,1.42
+2026-08-06T16:02:45.748179+00:00,2026-08-06,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,34,5,56,0,4,3,1.31
+2026-08-06T16:02:45.748179+00:00,2026-08-06,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,85,11,60,0,4,3,1.38
+2026-08-07T16:02:45.748179+00:00,2026-08-07,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,28,16,2.18
+2026-08-07T16:02:45.748179+00:00,2026-08-07,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,53,6,56,0,4,3,1.25
+2026-08-07T16:02:45.748179+00:00,2026-08-07,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,63,9,60,0,4,3,1.42
+2026-08-07T16:02:45.748179+00:00,2026-08-07,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,36,5,58,0,4,3,1.31
+2026-08-07T16:02:45.748179+00:00,2026-08-07,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,82,10,57,0,4,3,1.38
+2026-08-08T16:02:45.748179+00:00,2026-08-08,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,28,16,2.18
+2026-08-08T16:02:45.748179+00:00,2026-08-08,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,57,7,60,0,4,3,1.25
+2026-08-08T16:02:45.748179+00:00,2026-08-08,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,61,8,57,0,4,3,1.42
+2026-08-08T16:02:45.748179+00:00,2026-08-08,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,36,5,58,0,4,3,1.31
+2026-08-08T16:02:45.748179+00:00,2026-08-08,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,84,11,59,0,4,3,1.38
+2026-08-09T16:02:45.748179+00:00,2026-08-09,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,29,16,2.18
+2026-08-09T16:02:45.748179+00:00,2026-08-09,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,52,6,56,0,4,3,1.25
+2026-08-09T16:02:45.748179+00:00,2026-08-09,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,59,8,56,0,4,3,1.42
+2026-08-09T16:02:45.748179+00:00,2026-08-09,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,36,5,59,0,4,3,1.31
+2026-08-09T16:02:45.748179+00:00,2026-08-09,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,81,10,56,0,4,3,1.38
+2026-08-10T16:02:45.748179+00:00,2026-08-10,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,29,17,2.18
+2026-08-10T16:02:45.748179+00:00,2026-08-10,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,53,7,57,0,4,3,1.25
+2026-08-10T16:02:45.748179+00:00,2026-08-10,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,63,9,60,0,4,3,1.42
+2026-08-10T16:02:45.748179+00:00,2026-08-10,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,37,5,61,0,4,3,1.31
+2026-08-10T16:02:45.748179+00:00,2026-08-10,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,87,11,61,0,4,3,1.38
+2026-08-11T16:02:45.748179+00:00,2026-08-11,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,29,17,2.18
+2026-08-11T16:02:45.748179+00:00,2026-08-11,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,57,7,61,0,4,3,1.25
+2026-08-11T16:02:45.748179+00:00,2026-08-11,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,60,8,56,0,4,3,1.42
+2026-08-11T16:02:45.748179+00:00,2026-08-11,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,37,5,61,0,4,3,1.31
+2026-08-11T16:02:45.748179+00:00,2026-08-11,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,87,11,61,0,4,3,1.38
+2026-08-12T16:02:45.748179+00:00,2026-08-12,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,29,17,2.18
+2026-08-12T16:02:45.748179+00:00,2026-08-12,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,57,7,60,0,4,3,1.25
+2026-08-12T16:02:45.748179+00:00,2026-08-12,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,62,9,59,0,4,3,1.42
+2026-08-12T16:02:45.748179+00:00,2026-08-12,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,38,5,61,0,4,3,1.31
+2026-08-12T16:02:45.748179+00:00,2026-08-12,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,83,10,58,0,4,3,1.38
+2026-08-13T16:02:45.748179+00:00,2026-08-13,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,29,17,2.18
+2026-08-13T16:02:45.748179+00:00,2026-08-13,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,53,7,57,0,4,3,1.25
+2026-08-13T16:02:45.748179+00:00,2026-08-13,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,64,9,60,0,4,3,1.42
+2026-08-13T16:02:45.748179+00:00,2026-08-13,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,37,5,60,0,4,3,1.31
+2026-08-13T16:02:45.748179+00:00,2026-08-13,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,88,11,62,0,4,3,1.38
+2026-08-14T16:02:45.748179+00:00,2026-08-14,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,29,17,2.18
+2026-08-14T16:02:45.748179+00:00,2026-08-14,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,58,7,62,0,4,3,1.25
+2026-08-14T16:02:45.748179+00:00,2026-08-14,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,63,9,60,0,4,3,1.42
+2026-08-14T16:02:45.748179+00:00,2026-08-14,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,36,5,58,0,4,3,1.31
+2026-08-14T16:02:45.748179+00:00,2026-08-14,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,87,11,61,0,4,3,1.38
+2026-08-15T16:02:45.748179+00:00,2026-08-15,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,29,17,2.18
+2026-08-15T16:02:45.748179+00:00,2026-08-15,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,58,7,62,0,4,3,1.25
+2026-08-15T16:02:45.748179+00:00,2026-08-15,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,61,8,57,0,4,3,1.42
+2026-08-15T16:02:45.748179+00:00,2026-08-15,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,39,5,63,0,4,3,1.31
+2026-08-15T16:02:45.748179+00:00,2026-08-15,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,85,11,59,0,4,3,1.38
+2026-08-16T16:02:45.748179+00:00,2026-08-16,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,30,17,2.18
+2026-08-16T16:02:45.748179+00:00,2026-08-16,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,58,7,62,0,5,3,1.25
+2026-08-16T16:02:45.748179+00:00,2026-08-16,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,63,9,60,0,5,3,1.42
+2026-08-16T16:02:45.748179+00:00,2026-08-16,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,38,5,63,0,5,3,1.31
+2026-08-16T16:02:45.748179+00:00,2026-08-16,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,88,11,61,0,5,3,1.38
+2026-08-17T16:02:45.748179+00:00,2026-08-17,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,30,17,2.18
+2026-08-17T16:02:45.748179+00:00,2026-08-17,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,57,7,60,0,5,3,1.25
+2026-08-17T16:02:45.748179+00:00,2026-08-17,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,67,9,63,0,5,3,1.42
+2026-08-17T16:02:45.748179+00:00,2026-08-17,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,39,5,63,0,5,3,1.31
+2026-08-17T16:02:45.748179+00:00,2026-08-17,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,84,10,59,0,5,3,1.38
+2026-08-18T16:02:45.748179+00:00,2026-08-18,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,30,17,2.18
+2026-08-18T16:02:45.748179+00:00,2026-08-18,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,59,7,63,0,5,3,1.25
+2026-08-18T16:02:45.748179+00:00,2026-08-18,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,64,9,61,0,5,3,1.42
+2026-08-18T16:02:45.748179+00:00,2026-08-18,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,36,5,58,0,5,3,1.31
+2026-08-18T16:02:45.748179+00:00,2026-08-18,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,91,11,64,0,5,3,1.38
+2026-08-19T16:02:45.748179+00:00,2026-08-19,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,30,17,2.18
+2026-08-19T16:02:45.748179+00:00,2026-08-19,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,60,7,64,0,5,3,1.25
+2026-08-19T16:02:45.748179+00:00,2026-08-19,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,63,9,60,0,5,3,1.42
+2026-08-19T16:02:45.748179+00:00,2026-08-19,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,37,5,61,0,5,3,1.31
+2026-08-19T16:02:45.748179+00:00,2026-08-19,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,88,11,62,0,5,3,1.38
+2026-08-20T16:02:45.748179+00:00,2026-08-20,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,30,17,2.18
+2026-08-20T16:02:45.748179+00:00,2026-08-20,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,61,7,64,0,5,3,1.25
+2026-08-20T16:02:45.748179+00:00,2026-08-20,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,66,9,62,0,5,3,1.42
+2026-08-20T16:02:45.748179+00:00,2026-08-20,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,37,5,60,0,5,3,1.31
+2026-08-20T16:02:45.748179+00:00,2026-08-20,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,87,11,61,0,5,3,1.38
+2026-08-21T16:02:45.748179+00:00,2026-08-21,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,30,17,2.18
+2026-08-21T16:02:45.748179+00:00,2026-08-21,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,58,7,62,0,5,3,1.25
+2026-08-21T16:02:45.748179+00:00,2026-08-21,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,67,9,63,0,5,3,1.42
+2026-08-21T16:02:45.748179+00:00,2026-08-21,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,37,5,60,0,5,3,1.31
+2026-08-21T16:02:45.748179+00:00,2026-08-21,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,85,11,60,0,5,3,1.38
+2026-08-22T16:02:45.748179+00:00,2026-08-22,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,30,18,2.18
+2026-08-22T16:02:45.748179+00:00,2026-08-22,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,57,7,61,0,5,3,1.25
+2026-08-22T16:02:45.748179+00:00,2026-08-22,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,65,9,62,0,5,3,1.42
+2026-08-22T16:02:45.748179+00:00,2026-08-22,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,38,5,62,0,5,3,1.31
+2026-08-22T16:02:45.748179+00:00,2026-08-22,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,85,11,59,0,5,3,1.38
+2026-08-23T16:02:45.748179+00:00,2026-08-23,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,31,18,2.18
+2026-08-23T16:02:45.748179+00:00,2026-08-23,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,58,7,61,0,5,3,1.25
+2026-08-23T16:02:45.748179+00:00,2026-08-23,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,68,9,64,0,5,3,1.42
+2026-08-23T16:02:45.748179+00:00,2026-08-23,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,38,5,61,0,5,3,1.31
+2026-08-23T16:02:45.748179+00:00,2026-08-23,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,90,11,63,0,5,3,1.38
+2026-08-24T16:02:45.748179+00:00,2026-08-24,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,31,18,2.18
+2026-08-24T16:02:45.748179+00:00,2026-08-24,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,58,7,62,0,5,3,1.25
+2026-08-24T16:02:45.748179+00:00,2026-08-24,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,65,9,62,0,5,3,1.42
+2026-08-24T16:02:45.748179+00:00,2026-08-24,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,39,5,63,0,5,3,1.31
+2026-08-24T16:02:45.748179+00:00,2026-08-24,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,88,11,62,0,5,3,1.38
+2026-08-25T16:02:45.748179+00:00,2026-08-25,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,31,18,2.18
+2026-08-25T16:02:45.748179+00:00,2026-08-25,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,57,7,60,0,5,3,1.25
+2026-08-25T16:02:45.748179+00:00,2026-08-25,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,64,9,60,0,5,3,1.42
+2026-08-25T16:02:45.748179+00:00,2026-08-25,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,40,5,66,0,5,3,1.31
+2026-08-25T16:02:45.748179+00:00,2026-08-25,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,91,11,64,0,5,3,1.38
+2026-08-26T16:02:45.748179+00:00,2026-08-26,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,31,18,2.18
+2026-08-26T16:02:45.748179+00:00,2026-08-26,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,58,7,62,0,5,3,1.25
+2026-08-26T16:02:45.748179+00:00,2026-08-26,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,65,9,62,0,5,3,1.42
+2026-08-26T16:02:45.748179+00:00,2026-08-26,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,40,5,66,0,5,3,1.31
+2026-08-26T16:02:45.748179+00:00,2026-08-26,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,87,11,61,0,5,3,1.38
+2026-08-27T16:02:45.748179+00:00,2026-08-27,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,31,18,2.18
+2026-08-27T16:02:45.748179+00:00,2026-08-27,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,59,7,63,0,5,3,1.25
+2026-08-27T16:02:45.748179+00:00,2026-08-27,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,65,9,61,0,5,3,1.42
+2026-08-27T16:02:45.748179+00:00,2026-08-27,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,40,5,65,0,5,3,1.31
+2026-08-27T16:02:45.748179+00:00,2026-08-27,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,90,11,63,0,5,3,1.38
+2026-08-28T16:02:45.748179+00:00,2026-08-28,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,31,18,2.18
+2026-08-28T16:02:45.748179+00:00,2026-08-28,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,59,7,62,0,5,3,1.25
+2026-08-28T16:02:45.748179+00:00,2026-08-28,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,70,9,66,0,5,3,1.42
+2026-08-28T16:02:45.748179+00:00,2026-08-28,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,39,5,64,0,5,3,1.31
+2026-08-28T16:02:45.748179+00:00,2026-08-28,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,90,11,63,0,5,3,1.38
+2026-08-29T16:02:45.748179+00:00,2026-08-29,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,31,18,2.18
+2026-08-29T16:02:45.748179+00:00,2026-08-29,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,60,7,64,0,5,3,1.25
+2026-08-29T16:02:45.748179+00:00,2026-08-29,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,71,9,67,0,5,3,1.42
+2026-08-29T16:02:45.748179+00:00,2026-08-29,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,41,5,66,0,5,3,1.31
+2026-08-29T16:02:45.748179+00:00,2026-08-29,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,88,11,62,0,5,3,1.38
+2026-08-30T16:02:45.748179+00:00,2026-08-30,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,7,31,18,2.18
+2026-08-30T16:02:45.748179+00:00,2026-08-30,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,60,7,63,0,5,3,1.25
+2026-08-30T16:02:45.748179+00:00,2026-08-30,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,67,9,63,0,5,3,1.42
+2026-08-30T16:02:45.748179+00:00,2026-08-30,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,40,5,65,0,5,3,1.31
+2026-08-30T16:02:45.748179+00:00,2026-08-30,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,94,11,66,0,5,3,1.38
+2026-08-31T16:02:45.748179+00:00,2026-08-31,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,8,32,18,2.18
+2026-08-31T16:02:45.748179+00:00,2026-08-31,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,63,7,67,0,5,4,1.25
+2026-08-31T16:02:45.748179+00:00,2026-08-31,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,71,9,67,0,5,4,1.42
+2026-08-31T16:02:45.748179+00:00,2026-08-31,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,41,5,66,0,5,4,1.31
+2026-08-31T16:02:45.748179+00:00,2026-08-31,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,93,11,65,0,5,4,1.38
+2026-09-01T16:02:45.748179+00:00,2026-09-01,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,8,32,18,2.18
+2026-09-01T16:02:45.748179+00:00,2026-09-01,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,63,7,67,0,5,4,1.25
+2026-09-01T16:02:45.748179+00:00,2026-09-01,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,69,9,65,0,5,4,1.42
+2026-09-01T16:02:45.748179+00:00,2026-09-01,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,38,5,62,0,5,4,1.31
+2026-09-01T16:02:45.748179+00:00,2026-09-01,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,89,11,62,0,5,4,1.38
+2026-09-02T16:02:45.748179+00:00,2026-09-02,420078,Prisma Health Greenville Memorial Hospital,SC,Greenville,814,112,694,109,134,8,32,18,2.18
+2026-09-02T16:02:45.748179+00:00,2026-09-02,420102,Prisma Health Patewood Hospital,SC,Greenville,72,8,59,7,62,0,5,4,1.25
+2026-09-02T16:02:45.748179+00:00,2026-09-02,420033,Prisma Health Greer Memorial Hospital,SC,Greenville,82,10,70,9,66,0,5,4,1.42
+2026-09-02T16:02:45.748179+00:00,2026-09-02,420037,Prisma Health Hillcrest Hospital,SC,Greenville,48,6,41,5,67,0,5,4,1.31
+2026-09-02T16:02:45.748179+00:00,2026-09-02,420015,Prisma Health Baptist Easley Hospital,SC,Pickens,109,12,96,11,67,0,5,4,1.38

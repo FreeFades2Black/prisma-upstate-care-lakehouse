@@ -15,6 +15,7 @@ from src.ingestion.models import PRISMA_UPSTATE_FACILITIES, FacilityAcuityTier
 from src.ingestion.gunfighter_upstate_extractor import GunfighterUpstateExtractor, PRISMA_UPSTATE_CCNS
 from src.analytics.transfer_optimizer import UpstateTransferOptimizer
 from src.analytics.timesfm_bed_surge_forecast import TimesFM3BedSurgeForecaster
+from src.analytics.timesfm_historical_backtest import TimesFM5YearBacktestEngine
 from src.processing.delta_lakehouse import PrismaUpstateLakehousePipeline
 
 
@@ -67,6 +68,21 @@ def test_timesfm_bed_surge_forecaster():
         p50 = day["projected_occupancy_pct_p50"]
         p90 = day["confidence_upper_p90"]
         assert p10 <= p50 <= p90
+
+
+def test_timesfm_5year_historical_backtest():
+    """Verify 5-year historical backtest evaluation engine against annual surge episodes."""
+    engine = TimesFM5YearBacktestEngine()
+    dossier = engine.generate_5yr_backtest_dossier()
+
+    assert "overall_precision_scorecard" in dossier
+    assert len(dossier["annual_surge_episodes"]) == 6
+    assert len(dossier["monthly_backtest_timeline"]["months"]) == 68
+
+    # Verify high statistical precision across episodes
+    for ep in dossier["annual_surge_episodes"]:
+        assert ep["error_mape_pct"] < 3.0  # High precision requirement (<3% MAPE)
+        assert ep["lead_time_days"] >= 14  # At least 2 weeks early warning lead time
 
 
 def test_full_medallion_pipeline_execution():

@@ -1,7 +1,7 @@
 {
   "model_metadata": {
     "foundation_model": "Google-TimesFM-3.0-Clinical-Surge-Forecaster",
-    "inference_timestamp_utc": "2026-09-02T16:02:45.972884+00:00",
+    "inference_timestamp_utc": "2026-09-03T15:51:54.611611+00:00",
     "forecast_horizon": "28 Days Forward (4-Week Surge Horizon)",
     "target_counties": [
       "Greenville County, SC",
@@ -24,30 +24,30 @@
       "is_tertiary_hub": true,
       "current_baseline_occupancy": "91.5%",
       "peak_28d_projected_occupancy_p50": "98.1%",
-      "days_exceeding_90pct_capacity": 28,
+      "days_exceeding_90pct_capacity": 27,
       "28_day_daily_trajectory": [
         {
-          "date": "2026-09-03",
-          "day_ahead": 1,
-          "projected_occupancy_pct_p50": 94.4,
-          "confidence_lower_p10": 93.5,
-          "confidence_upper_p90": 95.6,
-          "projected_occupied_beds": 768,
-          "projected_available_beds": 46,
-          "surge_directive": "CRITICAL_CAPACITY_SURGE"
-        },
-        {
           "date": "2026-09-04",
-          "day_ahead": 2,
-          "projected_occupancy_pct_p50": 92.4,
+          "day_ahead": 1,
+          "projected_occupancy_pct_p50": 92.0,
           "confidence_lower_p10": 91.1,
-          "confidence_upper_p90": 94.1,
-          "projected_occupied_beds": 752,
-          "projected_available_beds": 62,
+          "confidence_upper_p90": 93.2,
+          "projected_occupied_beds": 748,
+          "projected_available_beds": 66,
           "surge_directive": "TRANSFER_LOAD_SHEDDING"
         },
         {
           "date": "2026-09-05",
+          "day_ahead": 2,
+          "projected_occupancy_pct_p50": 89.6,
+          "confidence_lower_p10": 88.3,
+          "confidence_upper_p90": 91.3,
+          "projected_occupied_beds": 729,
+          "projected_available_beds": 85,
+          "surge_directive": "TRANSFER_LOAD_SHEDDING"
+        },
+        {
+          "date": "2026-09-06",
           "day_ahead": 3,
           "projected_occupancy_pct_p50": 90.1,
           "confidence_lower_p10": 88.5,
@@ -57,27 +57,27 @@
           "surge_directive": "TRANSFER_LOAD_SHEDDING"
         },
         {
-          "date": "2026-09-06",
-          "day_ahead": 4,
-          "projected_occupancy_pct_p50": 90.5,
-          "confidence_lower_p10": 88.7,
-          "confidence_upper_p90": 92.8,
-          "projected_occupied_beds": 736,
-          "projected_available_beds": 78,
-          "surge_directive": "TRANSFER_LOAD_SHEDDING"
-        },
-        {
           "date": "2026-09-07",
-          "day_ahead": 5,
-          "projected_occupancy_pct_p50": 93.7,
-          "confidence_lower_p10": 91.7,
-          "confidence_upper_p90": 96.3,
-          "projected_occupied_beds": 762,
-          "projected_available_beds": 52,
+          "day_ahead": 4,
+          "projected_occupancy_pct_p50": 93.3,
+          "confidence_lower_p10": 91.5,
+          "confidence_upper_p90": 95.6,
+          "projected_occupied_beds": 759,
+          "projected_available_beds": 55,
           "surge_directive": "TRANSFER_LOAD_SHEDDING"
         },
         {
           "date": "2026-09-08",
+          "day_ahead": 5,
+          "projected_occupancy_pct_p50": 96.1,
+          "confidence_lower_p10": 94.1,
+          "confidence_upper_p90": 98.7,
+          "projected_occupied_beds": 782,
+          "projected_available_beds": 32,
+          "surge_directive": "CRITICAL_CAPACITY_SURGE"
+        },
+        {
+          "date": "2026-09-09",
           "day_ahead": 6,
           "projected_occupancy_pct_p50": 96.5,
           "confidence_lower_p10": 94.3,
@@ -87,7 +87,7 @@
           "surge_directive": "CRITICAL_CAPACITY_SURGE"
         },
         {
-          "date": "2026-09-09",
+          "date": "2026-09-10",
           "day_ahead": 7,
           "projected_occupancy_pct_p50": 96.9,
           "confidence_lower_p10": 94.5,
@@ -97,27 +97,27 @@
           "surge_directive": "CRITICAL_CAPACITY_SURGE"
         },
         {
-          "date": "2026-09-10",
-          "day_ahead": 8,
-          "projected_occupancy_pct_p50": 97.2,
-          "confidence_lower_p10": 94.7,
-          "confidence_upper_p90": 100.0,
-          "projected_occupied_beds": 791,
-          "projected_available_beds": 23,
-          "surge_directive": "CRITICAL_CAPACITY_SURGE"
-        },
-        {
           "date": "2026-09-11",
-          "day_ahead": 9,
-          "projected_occupancy_pct_p50": 95.1,
-          "confidence_lower_p10": 92.4,
-          "confidence_upper_p90": 98.6,
-          "projected_occupied_beds": 774,
-          "projected_available_beds": 40,
+          "day_ahead": 8,
+          "projected_occupancy_pct_p50": 94.8,
+          "confidence_lower_p10": 92.3,
+          "confidence_upper_p90": 98.0,
+          "projected_occupied_beds": 771,
+          "projected_available_beds": 43,
           "surge_directive": "CRITICAL_CAPACITY_SURGE"
         },
         {
           "date": "2026-09-12",
+          "day_ahead": 9,
+          "projected_occupancy_pct_p50": 92.3,
+          "confidence_lower_p10": 89.6,
+          "confidence_upper_p90": 95.8,
+          "projected_occupied_beds": 751,
+          "projected_available_beds": 63,
+          "surge_directive": "TRANSFER_LOAD_SHEDDING"
+        },
+        {
+          "date": "2026-09-13",
           "day_ahead": 10,
           "projected_occupancy_pct_p50": 92.5,
           "confidence_lower_p10": 89.7,
@@ -127,27 +127,27 @@
           "surge_directive": "TRANSFER_LOAD_SHEDDING"
         },
         {
-          "date": "2026-09-13",
-          "day_ahead": 11,
-          "projected_occupancy_pct_p50": 92.7,
-          "confidence_lower_p10": 89.7,
-          "confidence_upper_p90": 96.6,
-          "projected_occupied_beds": 754,
-          "projected_available_beds": 60,
-          "surge_directive": "TRANSFER_LOAD_SHEDDING"
-        },
-        {
           "date": "2026-09-14",
-          "day_ahead": 12,
-          "projected_occupancy_pct_p50": 95.6,
+          "day_ahead": 11,
+          "projected_occupancy_pct_p50": 95.5,
           "confidence_lower_p10": 92.5,
-          "confidence_upper_p90": 99.6,
-          "projected_occupied_beds": 778,
-          "projected_available_beds": 36,
+          "confidence_upper_p90": 99.4,
+          "projected_occupied_beds": 777,
+          "projected_available_beds": 37,
           "surge_directive": "CRITICAL_CAPACITY_SURGE"
         },
         {
           "date": "2026-09-15",
+          "day_ahead": 12,
+          "projected_occupancy_pct_p50": 98.0,
+          "confidence_lower_p10": 94.9,
+          "confidence_upper_p90": 100.0,
+          "projected_occupied_beds": 797,
+          "projected_available_beds": 17,
+          "surge_directive": "CRITICAL_CAPACITY_SURGE"
+        },
+        {
+          "date": "2026-09-16",
           "day_ahead": 13,
           "projected_occupancy_pct_p50": 98.1,
           "confidence_lower_p10": 94.9,
@@ -157,7 +157,7 @@
           "surge_directive": "CRITICAL_CAPACITY_SURGE"
         },
         {
-          "date": "2026-09-16",
+          "date": "2026-09-17",
           "day_ahead": 14,
           "projected_occupancy_pct_p50": 98.1,
           "confidence_lower_p10": 94.7,
@@ -167,20 +167,10 @@
           "surge_directive": "CRITICAL_CAPACITY_SURGE"
         },
         {
-          "date": "2026-09-17",
-          "day_ahead": 15,
-          "projected_occupancy_pct_p50": 98.1,
-          "confidence_lower_p10": 94.6,
-          "confidence_upper_p90": 100.0,
-          "projected_occupied_beds": 798,
-          "projected_available_beds": 16,
-          "surge_directive": "CRITICAL_CAPACITY_SURGE"
-        },
-        {
           "date": "2026-09-18",
-          "day_ahead": 16,
-          "projected_occupancy_pct_p50": 95.6,
-          "confidence_lower_p10": 92.0,
+          "day_ahead": 15,
+          "projected_occupancy_pct_p50": 95.7,
+          "confidence_lower_p10": 92.2,
           "confidence_upper_p90": 100.0,
           "projected_occupied_beds": 778,
           "projected_available_beds": 36,
@@ -188,6 +178,16 @@
         },
         {
           "date": "2026-09-19",
+          "day_ahead": 16,
+          "projected_occupancy_pct_p50": 92.8,
+          "confidence_lower_p10": 89.2,
+          "confidence_upper_p90": 97.5,
+          "projected_occupied_beds": 755,
+          "projected_available_beds": 59,
+          "surge_directive": "TRANSFER_LOAD_SHEDDING"
+        },
+        {
+          "date": "2026-09-20",
           "day_ahead": 17,
           "projected_occupancy_pct_p50": 92.7,
           "confidence_lower_p10": 89.0,
@@ -197,27 +197,27 @@
           "surge_directive": "TRANSFER_LOAD_SHEDDING"
         },
         {
-          "date": "2026-09-20",
-          "day_ahead": 18,
-          "projected_occupancy_pct_p50": 92.5,
-          "confidence_lower_p10": 88.7,
-          "confidence_upper_p90": 97.4,
-          "projected_occupied_beds": 752,
-          "projected_available_beds": 62,
-          "surge_directive": "TRANSFER_LOAD_SHEDDING"
-        },
-        {
           "date": "2026-09-21",
-          "day_ahead": 19,
-          "projected_occupancy_pct_p50": 95.1,
-          "confidence_lower_p10": 91.2,
+          "day_ahead": 18,
+          "projected_occupancy_pct_p50": 95.3,
+          "confidence_lower_p10": 91.5,
           "confidence_upper_p90": 100.0,
-          "projected_occupied_beds": 774,
-          "projected_available_beds": 40,
+          "projected_occupied_beds": 775,
+          "projected_available_beds": 39,
           "surge_directive": "CRITICAL_CAPACITY_SURGE"
         },
         {
           "date": "2026-09-22",
+          "day_ahead": 19,
+          "projected_occupancy_pct_p50": 97.5,
+          "confidence_lower_p10": 93.6,
+          "confidence_upper_p90": 100.0,
+          "projected_occupied_beds": 793,
+          "projected_available_beds": 21,
+          "surge_directive": "CRITICAL_CAPACITY_SURGE"
+        },
+        {
+          "date": "2026-09-23",
           "day_ahead": 20,
           "projected_occupancy_pct_p50": 97.2,
           "confidence_lower_p10": 93.2,
@@ -227,7 +227,7 @@
           "surge_directive": "CRITICAL_CAPACITY_SURGE"
         },
         {
-          "date": "2026-09-23",
+          "date": "2026-09-24",
           "day_ahead": 21,
           "projected_occupancy_pct_p50": 96.9,
           "confidence_lower_p10": 92.8,
@@ -237,27 +237,27 @@
           "surge_directive": "CRITICAL_CAPACITY_SURGE"
         },
         {
-          "date": "2026-09-24",
+          "date": "2026-09-25",
           "day_ahead": 22,
-          "projected_occupancy_pct_p50": 96.5,
-          "confidence_lower_p10": 92.3,
-          "confidence_upper_p90": 100.0,
-          "projected_occupied_beds": 785,
-          "projected_available_beds": 29,
+          "projected_occupancy_pct_p50": 94.1,
+          "confidence_lower_p10": 89.9,
+          "confidence_upper_p90": 99.6,
+          "projected_occupied_beds": 765,
+          "projected_available_beds": 49,
           "surge_directive": "CRITICAL_CAPACITY_SURGE"
         },
         {
-          "date": "2026-09-25",
+          "date": "2026-09-26",
           "day_ahead": 23,
-          "projected_occupancy_pct_p50": 93.7,
-          "confidence_lower_p10": 89.4,
-          "confidence_upper_p90": 99.3,
-          "projected_occupied_beds": 762,
-          "projected_available_beds": 52,
+          "projected_occupancy_pct_p50": 90.9,
+          "confidence_lower_p10": 86.6,
+          "confidence_upper_p90": 96.5,
+          "projected_occupied_beds": 739,
+          "projected_available_beds": 75,
           "surge_directive": "TRANSFER_LOAD_SHEDDING"
         },
         {
-          "date": "2026-09-26",
+          "date": "2026-09-27",
           "day_ahead": 24,
           "projected_occupancy_pct_p50": 90.5,
           "confidence_lower_p10": 86.1,
@@ -267,27 +267,27 @@
           "surge_directive": "TRANSFER_LOAD_SHEDDING"
         },
         {
-          "date": "2026-09-27",
-          "day_ahead": 25,
-          "projected_occupancy_pct_p50": 90.1,
-          "confidence_lower_p10": 85.6,
-          "confidence_upper_p90": 95.9,
-          "projected_occupied_beds": 733,
-          "projected_available_beds": 81,
-          "surge_directive": "TRANSFER_LOAD_SHEDDING"
-        },
-        {
           "date": "2026-09-28",
-          "day_ahead": 26,
-          "projected_occupancy_pct_p50": 92.4,
-          "confidence_lower_p10": 87.8,
-          "confidence_upper_p90": 98.4,
-          "projected_occupied_beds": 752,
-          "projected_available_beds": 62,
+          "day_ahead": 25,
+          "projected_occupancy_pct_p50": 92.9,
+          "confidence_lower_p10": 88.4,
+          "confidence_upper_p90": 98.8,
+          "projected_occupied_beds": 756,
+          "projected_available_beds": 58,
           "surge_directive": "TRANSFER_LOAD_SHEDDING"
         },
         {
           "date": "2026-09-29",
+          "day_ahead": 26,
+          "projected_occupancy_pct_p50": 94.8,
+          "confidence_lower_p10": 90.2,
+          "confidence_upper_p90": 100.0,
+          "projected_occupied_beds": 771,
+          "projected_available_beds": 43,
+          "surge_directive": "CRITICAL_CAPACITY_SURGE"
+        },
+        {
+          "date": "2026-09-30",
           "day_ahead": 27,
           "projected_occupancy_pct_p50": 94.4,
           "confidence_lower_p10": 89.7,
@@ -297,7 +297,7 @@
           "surge_directive": "CRITICAL_CAPACITY_SURGE"
         },
         {
-          "date": "2026-09-30",
+          "date": "2026-10-01",
           "day_ahead": 28,
           "projected_occupancy_pct_p50": 93.9,
           "confidence_lower_p10": 89.1,
@@ -320,27 +320,27 @@
       "days_exceeding_90pct_capacity": 0,
       "28_day_daily_trajectory": [
         {
-          "date": "2026-09-03",
-          "day_ahead": 1,
-          "projected_occupancy_pct_p50": 75.9,
-          "confidence_lower_p10": 75.0,
-          "confidence_upper_p90": 77.1,
-          "projected_occupied_beds": 54,
-          "projected_available_beds": 18,
-          "surge_directive": "OPTIMAL_CAPACITY"
-        },
-        {
           "date": "2026-09-04",
-          "day_ahead": 2,
-          "projected_occupancy_pct_p50": 73.9,
+          "day_ahead": 1,
+          "projected_occupancy_pct_p50": 73.5,
           "confidence_lower_p10": 72.6,
-          "confidence_upper_p90": 75.6,
-          "projected_occupied_beds": 53,
-          "projected_available_beds": 19,
+          "confidence_upper_p90": 74.7,
+          "projected_occupied_beds": 52,
+          "projected_available_beds": 20,
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
           "date": "2026-09-05",
+          "day_ahead": 2,
+          "projected_occupancy_pct_p50": 71.1,
+          "confidence_lower_p10": 69.8,
+          "confidence_upper_p90": 72.8,
+          "projected_occupied_beds": 51,
+          "projected_available_beds": 21,
+          "surge_directive": "OPTIMAL_CAPACITY"
+        },
+        {
+          "date": "2026-09-06",
           "day_ahead": 3,
           "projected_occupancy_pct_p50": 71.6,
           "confidence_lower_p10": 70.0,
@@ -350,27 +350,27 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-06",
-          "day_ahead": 4,
-          "projected_occupancy_pct_p50": 72.0,
-          "confidence_lower_p10": 70.2,
-          "confidence_upper_p90": 74.3,
-          "projected_occupied_beds": 51,
-          "projected_available_beds": 21,
-          "surge_directive": "OPTIMAL_CAPACITY"
-        },
-        {
           "date": "2026-09-07",
-          "day_ahead": 5,
-          "projected_occupancy_pct_p50": 75.2,
-          "confidence_lower_p10": 73.2,
-          "confidence_upper_p90": 77.8,
-          "projected_occupied_beds": 54,
-          "projected_available_beds": 18,
+          "day_ahead": 4,
+          "projected_occupancy_pct_p50": 74.8,
+          "confidence_lower_p10": 73.0,
+          "confidence_upper_p90": 77.1,
+          "projected_occupied_beds": 53,
+          "projected_available_beds": 19,
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
           "date": "2026-09-08",
+          "day_ahead": 5,
+          "projected_occupancy_pct_p50": 77.6,
+          "confidence_lower_p10": 75.6,
+          "confidence_upper_p90": 80.2,
+          "projected_occupied_beds": 55,
+          "projected_available_beds": 17,
+          "surge_directive": "OPTIMAL_CAPACITY"
+        },
+        {
+          "date": "2026-09-09",
           "day_ahead": 6,
           "projected_occupancy_pct_p50": 78.0,
           "confidence_lower_p10": 75.8,
@@ -380,7 +380,7 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-09",
+          "date": "2026-09-10",
           "day_ahead": 7,
           "projected_occupancy_pct_p50": 78.4,
           "confidence_lower_p10": 76.0,
@@ -390,27 +390,27 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-10",
-          "day_ahead": 8,
-          "projected_occupancy_pct_p50": 78.7,
-          "confidence_lower_p10": 76.2,
-          "confidence_upper_p90": 82.0,
-          "projected_occupied_beds": 56,
-          "projected_available_beds": 16,
-          "surge_directive": "OPTIMAL_CAPACITY"
-        },
-        {
           "date": "2026-09-11",
-          "day_ahead": 9,
-          "projected_occupancy_pct_p50": 76.6,
-          "confidence_lower_p10": 73.9,
-          "confidence_upper_p90": 80.1,
-          "projected_occupied_beds": 55,
-          "projected_available_beds": 17,
+          "day_ahead": 8,
+          "projected_occupancy_pct_p50": 76.3,
+          "confidence_lower_p10": 73.8,
+          "confidence_upper_p90": 79.5,
+          "projected_occupied_beds": 54,
+          "projected_available_beds": 18,
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
           "date": "2026-09-12",
+          "day_ahead": 9,
+          "projected_occupancy_pct_p50": 73.8,
+          "confidence_lower_p10": 71.1,
+          "confidence_upper_p90": 77.3,
+          "projected_occupied_beds": 53,
+          "projected_available_beds": 19,
+          "surge_directive": "OPTIMAL_CAPACITY"
+        },
+        {
+          "date": "2026-09-13",
           "day_ahead": 10,
           "projected_occupancy_pct_p50": 74.0,
           "confidence_lower_p10": 71.2,
@@ -420,27 +420,27 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-13",
-          "day_ahead": 11,
-          "projected_occupancy_pct_p50": 74.2,
-          "confidence_lower_p10": 71.2,
-          "confidence_upper_p90": 78.1,
-          "projected_occupied_beds": 53,
-          "projected_available_beds": 19,
-          "surge_directive": "OPTIMAL_CAPACITY"
-        },
-        {
           "date": "2026-09-14",
-          "day_ahead": 12,
-          "projected_occupancy_pct_p50": 77.1,
+          "day_ahead": 11,
+          "projected_occupancy_pct_p50": 77.0,
           "confidence_lower_p10": 74.0,
-          "confidence_upper_p90": 81.1,
+          "confidence_upper_p90": 80.9,
           "projected_occupied_beds": 55,
           "projected_available_beds": 17,
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
           "date": "2026-09-15",
+          "day_ahead": 12,
+          "projected_occupancy_pct_p50": 79.5,
+          "confidence_lower_p10": 76.4,
+          "confidence_upper_p90": 83.5,
+          "projected_occupied_beds": 57,
+          "projected_available_beds": 15,
+          "surge_directive": "OPTIMAL_CAPACITY"
+        },
+        {
+          "date": "2026-09-16",
           "day_ahead": 13,
           "projected_occupancy_pct_p50": 79.6,
           "confidence_lower_p10": 76.4,
@@ -450,7 +450,7 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-16",
+          "date": "2026-09-17",
           "day_ahead": 14,
           "projected_occupancy_pct_p50": 79.6,
           "confidence_lower_p10": 76.2,
@@ -460,20 +460,10 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-17",
-          "day_ahead": 15,
-          "projected_occupancy_pct_p50": 79.6,
-          "confidence_lower_p10": 76.1,
-          "confidence_upper_p90": 84.1,
-          "projected_occupied_beds": 57,
-          "projected_available_beds": 15,
-          "surge_directive": "OPTIMAL_CAPACITY"
-        },
-        {
           "date": "2026-09-18",
-          "day_ahead": 16,
-          "projected_occupancy_pct_p50": 77.1,
-          "confidence_lower_p10": 73.5,
+          "day_ahead": 15,
+          "projected_occupancy_pct_p50": 77.2,
+          "confidence_lower_p10": 73.7,
           "confidence_upper_p90": 81.8,
           "projected_occupied_beds": 55,
           "projected_available_beds": 17,
@@ -481,6 +471,16 @@
         },
         {
           "date": "2026-09-19",
+          "day_ahead": 16,
+          "projected_occupancy_pct_p50": 74.3,
+          "confidence_lower_p10": 70.7,
+          "confidence_upper_p90": 79.0,
+          "projected_occupied_beds": 53,
+          "projected_available_beds": 19,
+          "surge_directive": "OPTIMAL_CAPACITY"
+        },
+        {
+          "date": "2026-09-20",
           "day_ahead": 17,
           "projected_occupancy_pct_p50": 74.2,
           "confidence_lower_p10": 70.5,
@@ -490,20 +490,10 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-20",
-          "day_ahead": 18,
-          "projected_occupancy_pct_p50": 74.0,
-          "confidence_lower_p10": 70.2,
-          "confidence_upper_p90": 78.9,
-          "projected_occupied_beds": 53,
-          "projected_available_beds": 19,
-          "surge_directive": "OPTIMAL_CAPACITY"
-        },
-        {
           "date": "2026-09-21",
-          "day_ahead": 19,
-          "projected_occupancy_pct_p50": 76.6,
-          "confidence_lower_p10": 72.7,
+          "day_ahead": 18,
+          "projected_occupancy_pct_p50": 76.8,
+          "confidence_lower_p10": 73.0,
           "confidence_upper_p90": 81.7,
           "projected_occupied_beds": 55,
           "projected_available_beds": 17,
@@ -511,6 +501,16 @@
         },
         {
           "date": "2026-09-22",
+          "day_ahead": 19,
+          "projected_occupancy_pct_p50": 79.0,
+          "confidence_lower_p10": 75.1,
+          "confidence_upper_p90": 84.1,
+          "projected_occupied_beds": 56,
+          "projected_available_beds": 16,
+          "surge_directive": "OPTIMAL_CAPACITY"
+        },
+        {
+          "date": "2026-09-23",
           "day_ahead": 20,
           "projected_occupancy_pct_p50": 78.7,
           "confidence_lower_p10": 74.7,
@@ -520,7 +520,7 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-23",
+          "date": "2026-09-24",
           "day_ahead": 21,
           "projected_occupancy_pct_p50": 78.4,
           "confidence_lower_p10": 74.3,
@@ -530,27 +530,27 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-24",
-          "day_ahead": 22,
-          "projected_occupancy_pct_p50": 78.0,
-          "confidence_lower_p10": 73.8,
-          "confidence_upper_p90": 83.5,
-          "projected_occupied_beds": 56,
-          "projected_available_beds": 16,
-          "surge_directive": "OPTIMAL_CAPACITY"
-        },
-        {
           "date": "2026-09-25",
-          "day_ahead": 23,
-          "projected_occupancy_pct_p50": 75.2,
-          "confidence_lower_p10": 70.9,
-          "confidence_upper_p90": 80.8,
+          "day_ahead": 22,
+          "projected_occupancy_pct_p50": 75.6,
+          "confidence_lower_p10": 71.4,
+          "confidence_upper_p90": 81.1,
           "projected_occupied_beds": 54,
           "projected_available_beds": 18,
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
           "date": "2026-09-26",
+          "day_ahead": 23,
+          "projected_occupancy_pct_p50": 72.4,
+          "confidence_lower_p10": 68.1,
+          "confidence_upper_p90": 78.0,
+          "projected_occupied_beds": 52,
+          "projected_available_beds": 20,
+          "surge_directive": "OPTIMAL_CAPACITY"
+        },
+        {
+          "date": "2026-09-27",
           "day_ahead": 24,
           "projected_occupancy_pct_p50": 72.0,
           "confidence_lower_p10": 67.6,
@@ -560,27 +560,27 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-27",
-          "day_ahead": 25,
-          "projected_occupancy_pct_p50": 71.6,
-          "confidence_lower_p10": 67.1,
-          "confidence_upper_p90": 77.4,
-          "projected_occupied_beds": 51,
-          "projected_available_beds": 21,
-          "surge_directive": "OPTIMAL_CAPACITY"
-        },
-        {
           "date": "2026-09-28",
-          "day_ahead": 26,
-          "projected_occupancy_pct_p50": 73.9,
-          "confidence_lower_p10": 69.3,
-          "confidence_upper_p90": 79.9,
+          "day_ahead": 25,
+          "projected_occupancy_pct_p50": 74.4,
+          "confidence_lower_p10": 69.9,
+          "confidence_upper_p90": 80.2,
           "projected_occupied_beds": 53,
           "projected_available_beds": 19,
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
           "date": "2026-09-29",
+          "day_ahead": 26,
+          "projected_occupancy_pct_p50": 76.3,
+          "confidence_lower_p10": 71.7,
+          "confidence_upper_p90": 82.3,
+          "projected_occupied_beds": 54,
+          "projected_available_beds": 18,
+          "surge_directive": "OPTIMAL_CAPACITY"
+        },
+        {
+          "date": "2026-09-30",
           "day_ahead": 27,
           "projected_occupancy_pct_p50": 75.9,
           "confidence_lower_p10": 71.2,
@@ -590,7 +590,7 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-30",
+          "date": "2026-10-01",
           "day_ahead": 28,
           "projected_occupancy_pct_p50": 75.4,
           "confidence_lower_p10": 70.6,
@@ -613,27 +613,27 @@
       "days_exceeding_90pct_capacity": 0,
       "28_day_daily_trajectory": [
         {
-          "date": "2026-09-03",
-          "day_ahead": 1,
-          "projected_occupancy_pct_p50": 75.9,
-          "confidence_lower_p10": 75.0,
-          "confidence_upper_p90": 77.1,
-          "projected_occupied_beds": 62,
-          "projected_available_beds": 20,
-          "surge_directive": "OPTIMAL_CAPACITY"
-        },
-        {
           "date": "2026-09-04",
-          "day_ahead": 2,
-          "projected_occupancy_pct_p50": 73.9,
+          "day_ahead": 1,
+          "projected_occupancy_pct_p50": 73.5,
           "confidence_lower_p10": 72.6,
-          "confidence_upper_p90": 75.6,
+          "confidence_upper_p90": 74.7,
           "projected_occupied_beds": 60,
           "projected_available_beds": 22,
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
           "date": "2026-09-05",
+          "day_ahead": 2,
+          "projected_occupancy_pct_p50": 71.1,
+          "confidence_lower_p10": 69.8,
+          "confidence_upper_p90": 72.8,
+          "projected_occupied_beds": 58,
+          "projected_available_beds": 24,
+          "surge_directive": "OPTIMAL_CAPACITY"
+        },
+        {
+          "date": "2026-09-06",
           "day_ahead": 3,
           "projected_occupancy_pct_p50": 71.6,
           "confidence_lower_p10": 70.0,
@@ -643,27 +643,27 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-06",
-          "day_ahead": 4,
-          "projected_occupancy_pct_p50": 72.0,
-          "confidence_lower_p10": 70.2,
-          "confidence_upper_p90": 74.3,
-          "projected_occupied_beds": 59,
-          "projected_available_beds": 23,
-          "surge_directive": "OPTIMAL_CAPACITY"
-        },
-        {
           "date": "2026-09-07",
-          "day_ahead": 5,
-          "projected_occupancy_pct_p50": 75.2,
-          "confidence_lower_p10": 73.2,
-          "confidence_upper_p90": 77.8,
+          "day_ahead": 4,
+          "projected_occupancy_pct_p50": 74.8,
+          "confidence_lower_p10": 73.0,
+          "confidence_upper_p90": 77.1,
           "projected_occupied_beds": 61,
           "projected_available_beds": 21,
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
           "date": "2026-09-08",
+          "day_ahead": 5,
+          "projected_occupancy_pct_p50": 77.6,
+          "confidence_lower_p10": 75.6,
+          "confidence_upper_p90": 80.2,
+          "projected_occupied_beds": 63,
+          "projected_available_beds": 19,
+          "surge_directive": "OPTIMAL_CAPACITY"
+        },
+        {
+          "date": "2026-09-09",
           "day_ahead": 6,
           "projected_occupancy_pct_p50": 78.0,
           "confidence_lower_p10": 75.8,
@@ -673,7 +673,7 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-09",
+          "date": "2026-09-10",
           "day_ahead": 7,
           "projected_occupancy_pct_p50": 78.4,
           "confidence_lower_p10": 76.0,
@@ -683,27 +683,27 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-10",
-          "day_ahead": 8,
-          "projected_occupancy_pct_p50": 78.7,
-          "confidence_lower_p10": 76.2,
-          "confidence_upper_p90": 82.0,
-          "projected_occupied_beds": 64,
-          "projected_available_beds": 18,
-          "surge_directive": "OPTIMAL_CAPACITY"
-        },
-        {
           "date": "2026-09-11",
-          "day_ahead": 9,
-          "projected_occupancy_pct_p50": 76.6,
-          "confidence_lower_p10": 73.9,
-          "confidence_upper_p90": 80.1,
+          "day_ahead": 8,
+          "projected_occupancy_pct_p50": 76.3,
+          "confidence_lower_p10": 73.8,
+          "confidence_upper_p90": 79.5,
           "projected_occupied_beds": 62,
           "projected_available_beds": 20,
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
           "date": "2026-09-12",
+          "day_ahead": 9,
+          "projected_occupancy_pct_p50": 73.8,
+          "confidence_lower_p10": 71.1,
+          "confidence_upper_p90": 77.3,
+          "projected_occupied_beds": 60,
+          "projected_available_beds": 22,
+          "surge_directive": "OPTIMAL_CAPACITY"
+        },
+        {
+          "date": "2026-09-13",
           "day_ahead": 10,
           "projected_occupancy_pct_p50": 74.0,
           "confidence_lower_p10": 71.2,
@@ -713,27 +713,27 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-13",
-          "day_ahead": 11,
-          "projected_occupancy_pct_p50": 74.2,
-          "confidence_lower_p10": 71.2,
-          "confidence_upper_p90": 78.1,
-          "projected_occupied_beds": 60,
-          "projected_available_beds": 22,
-          "surge_directive": "OPTIMAL_CAPACITY"
-        },
-        {
           "date": "2026-09-14",
-          "day_ahead": 12,
-          "projected_occupancy_pct_p50": 77.1,
+          "day_ahead": 11,
+          "projected_occupancy_pct_p50": 77.0,
           "confidence_lower_p10": 74.0,
-          "confidence_upper_p90": 81.1,
+          "confidence_upper_p90": 80.9,
           "projected_occupied_beds": 63,
           "projected_available_beds": 19,
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
           "date": "2026-09-15",
+          "day_ahead": 12,
+          "projected_occupancy_pct_p50": 79.5,
+          "confidence_lower_p10": 76.4,
+          "confidence_upper_p90": 83.5,
+          "projected_occupied_beds": 65,
+          "projected_available_beds": 17,
+          "surge_directive": "OPTIMAL_CAPACITY"
+        },
+        {
+          "date": "2026-09-16",
           "day_ahead": 13,
           "projected_occupancy_pct_p50": 79.6,
           "confidence_lower_p10": 76.4,
@@ -743,7 +743,7 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-16",
+          "date": "2026-09-17",
           "day_ahead": 14,
           "projected_occupancy_pct_p50": 79.6,
           "confidence_lower_p10": 76.2,
@@ -753,20 +753,10 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-17",
-          "day_ahead": 15,
-          "projected_occupancy_pct_p50": 79.6,
-          "confidence_lower_p10": 76.1,
-          "confidence_upper_p90": 84.1,
-          "projected_occupied_beds": 65,
-          "projected_available_beds": 17,
-          "surge_directive": "OPTIMAL_CAPACITY"
-        },
-        {
           "date": "2026-09-18",
-          "day_ahead": 16,
-          "projected_occupancy_pct_p50": 77.1,
-          "confidence_lower_p10": 73.5,
+          "day_ahead": 15,
+          "projected_occupancy_pct_p50": 77.2,
+          "confidence_lower_p10": 73.7,
           "confidence_upper_p90": 81.8,
           "projected_occupied_beds": 63,
           "projected_available_beds": 19,
@@ -774,6 +764,16 @@
         },
         {
           "date": "2026-09-19",
+          "day_ahead": 16,
+          "projected_occupancy_pct_p50": 74.3,
+          "confidence_lower_p10": 70.7,
+          "confidence_upper_p90": 79.0,
+          "projected_occupied_beds": 60,
+          "projected_available_beds": 22,
+          "surge_directive": "OPTIMAL_CAPACITY"
+        },
+        {
+          "date": "2026-09-20",
           "day_ahead": 17,
           "projected_occupancy_pct_p50": 74.2,
           "confidence_lower_p10": 70.5,
@@ -783,20 +783,10 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-20",
-          "day_ahead": 18,
-          "projected_occupancy_pct_p50": 74.0,
-          "confidence_lower_p10": 70.2,
-          "confidence_upper_p90": 78.9,
-          "projected_occupied_beds": 60,
-          "projected_available_beds": 22,
-          "surge_directive": "OPTIMAL_CAPACITY"
-        },
-        {
           "date": "2026-09-21",
-          "day_ahead": 19,
-          "projected_occupancy_pct_p50": 76.6,
-          "confidence_lower_p10": 72.7,
+          "day_ahead": 18,
+          "projected_occupancy_pct_p50": 76.8,
+          "confidence_lower_p10": 73.0,
           "confidence_upper_p90": 81.7,
           "projected_occupied_beds": 62,
           "projected_available_beds": 20,
@@ -804,6 +794,16 @@
         },
         {
           "date": "2026-09-22",
+          "day_ahead": 19,
+          "projected_occupancy_pct_p50": 79.0,
+          "confidence_lower_p10": 75.1,
+          "confidence_upper_p90": 84.1,
+          "projected_occupied_beds": 64,
+          "projected_available_beds": 18,
+          "surge_directive": "OPTIMAL_CAPACITY"
+        },
+        {
+          "date": "2026-09-23",
           "day_ahead": 20,
           "projected_occupancy_pct_p50": 78.7,
           "confidence_lower_p10": 74.7,
@@ -813,7 +813,7 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-23",
+          "date": "2026-09-24",
           "day_ahead": 21,
           "projected_occupancy_pct_p50": 78.4,
           "confidence_lower_p10": 74.3,
@@ -823,27 +823,27 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-24",
-          "day_ahead": 22,
-          "projected_occupancy_pct_p50": 78.0,
-          "confidence_lower_p10": 73.8,
-          "confidence_upper_p90": 83.5,
-          "projected_occupied_beds": 63,
-          "projected_available_beds": 19,
-          "surge_directive": "OPTIMAL_CAPACITY"
-        },
-        {
           "date": "2026-09-25",
-          "day_ahead": 23,
-          "projected_occupancy_pct_p50": 75.2,
-          "confidence_lower_p10": 70.9,
-          "confidence_upper_p90": 80.8,
+          "day_ahead": 22,
+          "projected_occupancy_pct_p50": 75.6,
+          "confidence_lower_p10": 71.4,
+          "confidence_upper_p90": 81.1,
           "projected_occupied_beds": 61,
           "projected_available_beds": 21,
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
           "date": "2026-09-26",
+          "day_ahead": 23,
+          "projected_occupancy_pct_p50": 72.4,
+          "confidence_lower_p10": 68.1,
+          "confidence_upper_p90": 78.0,
+          "projected_occupied_beds": 59,
+          "projected_available_beds": 23,
+          "surge_directive": "OPTIMAL_CAPACITY"
+        },
+        {
+          "date": "2026-09-27",
           "day_ahead": 24,
           "projected_occupancy_pct_p50": 72.0,
           "confidence_lower_p10": 67.6,
@@ -853,27 +853,27 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-27",
-          "day_ahead": 25,
-          "projected_occupancy_pct_p50": 71.6,
-          "confidence_lower_p10": 67.1,
-          "confidence_upper_p90": 77.4,
-          "projected_occupied_beds": 58,
-          "projected_available_beds": 24,
-          "surge_directive": "OPTIMAL_CAPACITY"
-        },
-        {
           "date": "2026-09-28",
-          "day_ahead": 26,
-          "projected_occupancy_pct_p50": 73.9,
-          "confidence_lower_p10": 69.3,
-          "confidence_upper_p90": 79.9,
-          "projected_occupied_beds": 60,
-          "projected_available_beds": 22,
+          "day_ahead": 25,
+          "projected_occupancy_pct_p50": 74.4,
+          "confidence_lower_p10": 69.9,
+          "confidence_upper_p90": 80.2,
+          "projected_occupied_beds": 61,
+          "projected_available_beds": 21,
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
           "date": "2026-09-29",
+          "day_ahead": 26,
+          "projected_occupancy_pct_p50": 76.3,
+          "confidence_lower_p10": 71.7,
+          "confidence_upper_p90": 82.3,
+          "projected_occupied_beds": 62,
+          "projected_available_beds": 20,
+          "surge_directive": "OPTIMAL_CAPACITY"
+        },
+        {
+          "date": "2026-09-30",
           "day_ahead": 27,
           "projected_occupancy_pct_p50": 75.9,
           "confidence_lower_p10": 71.2,
@@ -883,7 +883,7 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-30",
+          "date": "2026-10-01",
           "day_ahead": 28,
           "projected_occupancy_pct_p50": 75.4,
           "confidence_lower_p10": 70.6,
@@ -906,27 +906,27 @@
       "days_exceeding_90pct_capacity": 0,
       "28_day_daily_trajectory": [
         {
-          "date": "2026-09-03",
-          "day_ahead": 1,
-          "projected_occupancy_pct_p50": 75.9,
-          "confidence_lower_p10": 75.0,
-          "confidence_upper_p90": 77.1,
-          "projected_occupied_beds": 36,
-          "projected_available_beds": 12,
-          "surge_directive": "OPTIMAL_CAPACITY"
-        },
-        {
           "date": "2026-09-04",
-          "day_ahead": 2,
-          "projected_occupancy_pct_p50": 73.9,
+          "day_ahead": 1,
+          "projected_occupancy_pct_p50": 73.5,
           "confidence_lower_p10": 72.6,
-          "confidence_upper_p90": 75.6,
+          "confidence_upper_p90": 74.7,
           "projected_occupied_beds": 35,
           "projected_available_beds": 13,
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
           "date": "2026-09-05",
+          "day_ahead": 2,
+          "projected_occupancy_pct_p50": 71.1,
+          "confidence_lower_p10": 69.8,
+          "confidence_upper_p90": 72.8,
+          "projected_occupied_beds": 34,
+          "projected_available_beds": 14,
+          "surge_directive": "OPTIMAL_CAPACITY"
+        },
+        {
+          "date": "2026-09-06",
           "day_ahead": 3,
           "projected_occupancy_pct_p50": 71.6,
           "confidence_lower_p10": 70.0,
@@ -936,27 +936,27 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-06",
-          "day_ahead": 4,
-          "projected_occupancy_pct_p50": 72.0,
-          "confidence_lower_p10": 70.2,
-          "confidence_upper_p90": 74.3,
-          "projected_occupied_beds": 34,
-          "projected_available_beds": 14,
-          "surge_directive": "OPTIMAL_CAPACITY"
-        },
-        {
           "date": "2026-09-07",
-          "day_ahead": 5,
-          "projected_occupancy_pct_p50": 75.2,
-          "confidence_lower_p10": 73.2,
-          "confidence_upper_p90": 77.8,
-          "projected_occupied_beds": 36,
-          "projected_available_beds": 12,
+          "day_ahead": 4,
+          "projected_occupancy_pct_p50": 74.8,
+          "confidence_lower_p10": 73.0,
+          "confidence_upper_p90": 77.1,
+          "projected_occupied_beds": 35,
+          "projected_available_beds": 13,
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
           "date": "2026-09-08",
+          "day_ahead": 5,
+          "projected_occupancy_pct_p50": 77.6,
+          "confidence_lower_p10": 75.6,
+          "confidence_upper_p90": 80.2,
+          "projected_occupied_beds": 37,
+          "projected_available_beds": 11,
+          "surge_directive": "OPTIMAL_CAPACITY"
+        },
+        {
+          "date": "2026-09-09",
           "day_ahead": 6,
           "projected_occupancy_pct_p50": 78.0,
           "confidence_lower_p10": 75.8,
@@ -966,7 +966,7 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-09",
+          "date": "2026-09-10",
           "day_ahead": 7,
           "projected_occupancy_pct_p50": 78.4,
           "confidence_lower_p10": 76.0,
@@ -976,27 +976,27 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-10",
-          "day_ahead": 8,
-          "projected_occupancy_pct_p50": 78.7,
-          "confidence_lower_p10": 76.2,
-          "confidence_upper_p90": 82.0,
-          "projected_occupied_beds": 37,
-          "projected_available_beds": 11,
-          "surge_directive": "OPTIMAL_CAPACITY"
-        },
-        {
           "date": "2026-09-11",
-          "day_ahead": 9,
-          "projected_occupancy_pct_p50": 76.6,
-          "confidence_lower_p10": 73.9,
-          "confidence_upper_p90": 80.1,
+          "day_ahead": 8,
+          "projected_occupancy_pct_p50": 76.3,
+          "confidence_lower_p10": 73.8,
+          "confidence_upper_p90": 79.5,
           "projected_occupied_beds": 36,
           "projected_available_beds": 12,
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
           "date": "2026-09-12",
+          "day_ahead": 9,
+          "projected_occupancy_pct_p50": 73.8,
+          "confidence_lower_p10": 71.1,
+          "confidence_upper_p90": 77.3,
+          "projected_occupied_beds": 35,
+          "projected_available_beds": 13,
+          "surge_directive": "OPTIMAL_CAPACITY"
+        },
+        {
+          "date": "2026-09-13",
           "day_ahead": 10,
           "projected_occupancy_pct_p50": 74.0,
           "confidence_lower_p10": 71.2,
@@ -1006,27 +1006,27 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-13",
-          "day_ahead": 11,
-          "projected_occupancy_pct_p50": 74.2,
-          "confidence_lower_p10": 71.2,
-          "confidence_upper_p90": 78.1,
-          "projected_occupied_beds": 35,
-          "projected_available_beds": 13,
-          "surge_directive": "OPTIMAL_CAPACITY"
-        },
-        {
           "date": "2026-09-14",
-          "day_ahead": 12,
-          "projected_occupancy_pct_p50": 77.1,
+          "day_ahead": 11,
+          "projected_occupancy_pct_p50": 77.0,
           "confidence_lower_p10": 74.0,
-          "confidence_upper_p90": 81.1,
-          "projected_occupied_beds": 37,
-          "projected_available_beds": 11,
+          "confidence_upper_p90": 80.9,
+          "projected_occupied_beds": 36,
+          "projected_available_beds": 12,
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
           "date": "2026-09-15",
+          "day_ahead": 12,
+          "projected_occupancy_pct_p50": 79.5,
+          "confidence_lower_p10": 76.4,
+          "confidence_upper_p90": 83.5,
+          "projected_occupied_beds": 38,
+          "projected_available_beds": 10,
+          "surge_directive": "OPTIMAL_CAPACITY"
+        },
+        {
+          "date": "2026-09-16",
           "day_ahead": 13,
           "projected_occupancy_pct_p50": 79.6,
           "confidence_lower_p10": 76.4,
@@ -1036,7 +1036,7 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-16",
+          "date": "2026-09-17",
           "day_ahead": 14,
           "projected_occupancy_pct_p50": 79.6,
           "confidence_lower_p10": 76.2,
@@ -1046,20 +1046,10 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-17",
-          "day_ahead": 15,
-          "projected_occupancy_pct_p50": 79.6,
-          "confidence_lower_p10": 76.1,
-          "confidence_upper_p90": 84.1,
-          "projected_occupied_beds": 38,
-          "projected_available_beds": 10,
-          "surge_directive": "OPTIMAL_CAPACITY"
-        },
-        {
           "date": "2026-09-18",
-          "day_ahead": 16,
-          "projected_occupancy_pct_p50": 77.1,
-          "confidence_lower_p10": 73.5,
+          "day_ahead": 15,
+          "projected_occupancy_pct_p50": 77.2,
+          "confidence_lower_p10": 73.7,
           "confidence_upper_p90": 81.8,
           "projected_occupied_beds": 37,
           "projected_available_beds": 11,
@@ -1067,6 +1057,16 @@
         },
         {
           "date": "2026-09-19",
+          "day_ahead": 16,
+          "projected_occupancy_pct_p50": 74.3,
+          "confidence_lower_p10": 70.7,
+          "confidence_upper_p90": 79.0,
+          "projected_occupied_beds": 35,
+          "projected_available_beds": 13,
+          "surge_directive": "OPTIMAL_CAPACITY"
+        },
+        {
+          "date": "2026-09-20",
           "day_ahead": 17,
           "projected_occupancy_pct_p50": 74.2,
           "confidence_lower_p10": 70.5,
@@ -1076,20 +1076,10 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-20",
-          "day_ahead": 18,
-          "projected_occupancy_pct_p50": 74.0,
-          "confidence_lower_p10": 70.2,
-          "confidence_upper_p90": 78.9,
-          "projected_occupied_beds": 35,
-          "projected_available_beds": 13,
-          "surge_directive": "OPTIMAL_CAPACITY"
-        },
-        {
           "date": "2026-09-21",
-          "day_ahead": 19,
-          "projected_occupancy_pct_p50": 76.6,
-          "confidence_lower_p10": 72.7,
+          "day_ahead": 18,
+          "projected_occupancy_pct_p50": 76.8,
+          "confidence_lower_p10": 73.0,
           "confidence_upper_p90": 81.7,
           "projected_occupied_beds": 36,
           "projected_available_beds": 12,
@@ -1097,6 +1087,16 @@
         },
         {
           "date": "2026-09-22",
+          "day_ahead": 19,
+          "projected_occupancy_pct_p50": 79.0,
+          "confidence_lower_p10": 75.1,
+          "confidence_upper_p90": 84.1,
+          "projected_occupied_beds": 37,
+          "projected_available_beds": 11,
+          "surge_directive": "OPTIMAL_CAPACITY"
+        },
+        {
+          "date": "2026-09-23",
           "day_ahead": 20,
           "projected_occupancy_pct_p50": 78.7,
           "confidence_lower_p10": 74.7,
@@ -1106,7 +1106,7 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-23",
+          "date": "2026-09-24",
           "day_ahead": 21,
           "projected_occupancy_pct_p50": 78.4,
           "confidence_lower_p10": 74.3,
@@ -1116,27 +1116,27 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-24",
-          "day_ahead": 22,
-          "projected_occupancy_pct_p50": 78.0,
-          "confidence_lower_p10": 73.8,
-          "confidence_upper_p90": 83.5,
-          "projected_occupied_beds": 37,
-          "projected_available_beds": 11,
-          "surge_directive": "OPTIMAL_CAPACITY"
-        },
-        {
           "date": "2026-09-25",
-          "day_ahead": 23,
-          "projected_occupancy_pct_p50": 75.2,
-          "confidence_lower_p10": 70.9,
-          "confidence_upper_p90": 80.8,
+          "day_ahead": 22,
+          "projected_occupancy_pct_p50": 75.6,
+          "confidence_lower_p10": 71.4,
+          "confidence_upper_p90": 81.1,
           "projected_occupied_beds": 36,
           "projected_available_beds": 12,
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
           "date": "2026-09-26",
+          "day_ahead": 23,
+          "projected_occupancy_pct_p50": 72.4,
+          "confidence_lower_p10": 68.1,
+          "confidence_upper_p90": 78.0,
+          "projected_occupied_beds": 34,
+          "projected_available_beds": 14,
+          "surge_directive": "OPTIMAL_CAPACITY"
+        },
+        {
+          "date": "2026-09-27",
           "day_ahead": 24,
           "projected_occupancy_pct_p50": 72.0,
           "confidence_lower_p10": 67.6,
@@ -1146,27 +1146,27 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-27",
-          "day_ahead": 25,
-          "projected_occupancy_pct_p50": 71.6,
-          "confidence_lower_p10": 67.1,
-          "confidence_upper_p90": 77.4,
-          "projected_occupied_beds": 34,
-          "projected_available_beds": 14,
-          "surge_directive": "OPTIMAL_CAPACITY"
-        },
-        {
           "date": "2026-09-28",
-          "day_ahead": 26,
-          "projected_occupancy_pct_p50": 73.9,
-          "confidence_lower_p10": 69.3,
-          "confidence_upper_p90": 79.9,
+          "day_ahead": 25,
+          "projected_occupancy_pct_p50": 74.4,
+          "confidence_lower_p10": 69.9,
+          "confidence_upper_p90": 80.2,
           "projected_occupied_beds": 35,
           "projected_available_beds": 13,
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
           "date": "2026-09-29",
+          "day_ahead": 26,
+          "projected_occupancy_pct_p50": 76.3,
+          "confidence_lower_p10": 71.7,
+          "confidence_upper_p90": 82.3,
+          "projected_occupied_beds": 36,
+          "projected_available_beds": 12,
+          "surge_directive": "OPTIMAL_CAPACITY"
+        },
+        {
+          "date": "2026-09-30",
           "day_ahead": 27,
           "projected_occupancy_pct_p50": 75.9,
           "confidence_lower_p10": 71.2,
@@ -1176,7 +1176,7 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-30",
+          "date": "2026-10-01",
           "day_ahead": 28,
           "projected_occupancy_pct_p50": 75.4,
           "confidence_lower_p10": 70.6,
@@ -1199,27 +1199,27 @@
       "days_exceeding_90pct_capacity": 0,
       "28_day_daily_trajectory": [
         {
-          "date": "2026-09-03",
-          "day_ahead": 1,
-          "projected_occupancy_pct_p50": 75.9,
-          "confidence_lower_p10": 75.0,
-          "confidence_upper_p90": 77.1,
-          "projected_occupied_beds": 82,
-          "projected_available_beds": 27,
-          "surge_directive": "OPTIMAL_CAPACITY"
-        },
-        {
           "date": "2026-09-04",
-          "day_ahead": 2,
-          "projected_occupancy_pct_p50": 73.9,
+          "day_ahead": 1,
+          "projected_occupancy_pct_p50": 73.5,
           "confidence_lower_p10": 72.6,
-          "confidence_upper_p90": 75.6,
+          "confidence_upper_p90": 74.7,
           "projected_occupied_beds": 80,
           "projected_available_beds": 29,
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
           "date": "2026-09-05",
+          "day_ahead": 2,
+          "projected_occupancy_pct_p50": 71.1,
+          "confidence_lower_p10": 69.8,
+          "confidence_upper_p90": 72.8,
+          "projected_occupied_beds": 77,
+          "projected_available_beds": 32,
+          "surge_directive": "OPTIMAL_CAPACITY"
+        },
+        {
+          "date": "2026-09-06",
           "day_ahead": 3,
           "projected_occupancy_pct_p50": 71.6,
           "confidence_lower_p10": 70.0,
@@ -1229,27 +1229,27 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-06",
-          "day_ahead": 4,
-          "projected_occupancy_pct_p50": 72.0,
-          "confidence_lower_p10": 70.2,
-          "confidence_upper_p90": 74.3,
-          "projected_occupied_beds": 78,
-          "projected_available_beds": 31,
-          "surge_directive": "OPTIMAL_CAPACITY"
-        },
-        {
           "date": "2026-09-07",
-          "day_ahead": 5,
-          "projected_occupancy_pct_p50": 75.2,
-          "confidence_lower_p10": 73.2,
-          "confidence_upper_p90": 77.8,
+          "day_ahead": 4,
+          "projected_occupancy_pct_p50": 74.8,
+          "confidence_lower_p10": 73.0,
+          "confidence_upper_p90": 77.1,
           "projected_occupied_beds": 81,
           "projected_available_beds": 28,
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
           "date": "2026-09-08",
+          "day_ahead": 5,
+          "projected_occupancy_pct_p50": 77.6,
+          "confidence_lower_p10": 75.6,
+          "confidence_upper_p90": 80.2,
+          "projected_occupied_beds": 84,
+          "projected_available_beds": 25,
+          "surge_directive": "OPTIMAL_CAPACITY"
+        },
+        {
+          "date": "2026-09-09",
           "day_ahead": 6,
           "projected_occupancy_pct_p50": 78.0,
           "confidence_lower_p10": 75.8,
@@ -1259,7 +1259,7 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-09",
+          "date": "2026-09-10",
           "day_ahead": 7,
           "projected_occupancy_pct_p50": 78.4,
           "confidence_lower_p10": 76.0,
@@ -1269,27 +1269,27 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-10",
-          "day_ahead": 8,
-          "projected_occupancy_pct_p50": 78.7,
-          "confidence_lower_p10": 76.2,
-          "confidence_upper_p90": 82.0,
-          "projected_occupied_beds": 85,
-          "projected_available_beds": 24,
-          "surge_directive": "OPTIMAL_CAPACITY"
-        },
-        {
           "date": "2026-09-11",
-          "day_ahead": 9,
-          "projected_occupancy_pct_p50": 76.6,
-          "confidence_lower_p10": 73.9,
-          "confidence_upper_p90": 80.1,
+          "day_ahead": 8,
+          "projected_occupancy_pct_p50": 76.3,
+          "confidence_lower_p10": 73.8,
+          "confidence_upper_p90": 79.5,
           "projected_occupied_beds": 83,
           "projected_available_beds": 26,
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
           "date": "2026-09-12",
+          "day_ahead": 9,
+          "projected_occupancy_pct_p50": 73.8,
+          "confidence_lower_p10": 71.1,
+          "confidence_upper_p90": 77.3,
+          "projected_occupied_beds": 80,
+          "projected_available_beds": 29,
+          "surge_directive": "OPTIMAL_CAPACITY"
+        },
+        {
+          "date": "2026-09-13",
           "day_ahead": 10,
           "projected_occupancy_pct_p50": 74.0,
           "confidence_lower_p10": 71.2,
@@ -1299,27 +1299,27 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-13",
-          "day_ahead": 11,
-          "projected_occupancy_pct_p50": 74.2,
-          "confidence_lower_p10": 71.2,
-          "confidence_upper_p90": 78.1,
-          "projected_occupied_beds": 80,
-          "projected_available_beds": 29,
-          "surge_directive": "OPTIMAL_CAPACITY"
-        },
-        {
           "date": "2026-09-14",
-          "day_ahead": 12,
-          "projected_occupancy_pct_p50": 77.1,
+          "day_ahead": 11,
+          "projected_occupancy_pct_p50": 77.0,
           "confidence_lower_p10": 74.0,
-          "confidence_upper_p90": 81.1,
-          "projected_occupied_beds": 84,
-          "projected_available_beds": 25,
+          "confidence_upper_p90": 80.9,
+          "projected_occupied_beds": 83,
+          "projected_available_beds": 26,
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
           "date": "2026-09-15",
+          "day_ahead": 12,
+          "projected_occupancy_pct_p50": 79.5,
+          "confidence_lower_p10": 76.4,
+          "confidence_upper_p90": 83.5,
+          "projected_occupied_beds": 86,
+          "projected_available_beds": 23,
+          "surge_directive": "OPTIMAL_CAPACITY"
+        },
+        {
+          "date": "2026-09-16",
           "day_ahead": 13,
           "projected_occupancy_pct_p50": 79.6,
           "confidence_lower_p10": 76.4,
@@ -1329,7 +1329,7 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-16",
+          "date": "2026-09-17",
           "day_ahead": 14,
           "projected_occupancy_pct_p50": 79.6,
           "confidence_lower_p10": 76.2,
@@ -1339,20 +1339,10 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-17",
-          "day_ahead": 15,
-          "projected_occupancy_pct_p50": 79.6,
-          "confidence_lower_p10": 76.1,
-          "confidence_upper_p90": 84.1,
-          "projected_occupied_beds": 86,
-          "projected_available_beds": 23,
-          "surge_directive": "OPTIMAL_CAPACITY"
-        },
-        {
           "date": "2026-09-18",
-          "day_ahead": 16,
-          "projected_occupancy_pct_p50": 77.1,
-          "confidence_lower_p10": 73.5,
+          "day_ahead": 15,
+          "projected_occupancy_pct_p50": 77.2,
+          "confidence_lower_p10": 73.7,
           "confidence_upper_p90": 81.8,
           "projected_occupied_beds": 84,
           "projected_available_beds": 25,
@@ -1360,6 +1350,16 @@
         },
         {
           "date": "2026-09-19",
+          "day_ahead": 16,
+          "projected_occupancy_pct_p50": 74.3,
+          "confidence_lower_p10": 70.7,
+          "confidence_upper_p90": 79.0,
+          "projected_occupied_beds": 80,
+          "projected_available_beds": 29,
+          "surge_directive": "OPTIMAL_CAPACITY"
+        },
+        {
+          "date": "2026-09-20",
           "day_ahead": 17,
           "projected_occupancy_pct_p50": 74.2,
           "confidence_lower_p10": 70.5,
@@ -1369,20 +1369,10 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-20",
-          "day_ahead": 18,
-          "projected_occupancy_pct_p50": 74.0,
-          "confidence_lower_p10": 70.2,
-          "confidence_upper_p90": 78.9,
-          "projected_occupied_beds": 80,
-          "projected_available_beds": 29,
-          "surge_directive": "OPTIMAL_CAPACITY"
-        },
-        {
           "date": "2026-09-21",
-          "day_ahead": 19,
-          "projected_occupancy_pct_p50": 76.6,
-          "confidence_lower_p10": 72.7,
+          "day_ahead": 18,
+          "projected_occupancy_pct_p50": 76.8,
+          "confidence_lower_p10": 73.0,
           "confidence_upper_p90": 81.7,
           "projected_occupied_beds": 83,
           "projected_available_beds": 26,
@@ -1390,6 +1380,16 @@
         },
         {
           "date": "2026-09-22",
+          "day_ahead": 19,
+          "projected_occupancy_pct_p50": 79.0,
+          "confidence_lower_p10": 75.1,
+          "confidence_upper_p90": 84.1,
+          "projected_occupied_beds": 86,
+          "projected_available_beds": 23,
+          "surge_directive": "OPTIMAL_CAPACITY"
+        },
+        {
+          "date": "2026-09-23",
           "day_ahead": 20,
           "projected_occupancy_pct_p50": 78.7,
           "confidence_lower_p10": 74.7,
@@ -1399,7 +1399,7 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-23",
+          "date": "2026-09-24",
           "day_ahead": 21,
           "projected_occupancy_pct_p50": 78.4,
           "confidence_lower_p10": 74.3,
@@ -1409,27 +1409,27 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-24",
-          "day_ahead": 22,
-          "projected_occupancy_pct_p50": 78.0,
-          "confidence_lower_p10": 73.8,
-          "confidence_upper_p90": 83.5,
-          "projected_occupied_beds": 85,
-          "projected_available_beds": 24,
-          "surge_directive": "OPTIMAL_CAPACITY"
-        },
-        {
           "date": "2026-09-25",
-          "day_ahead": 23,
-          "projected_occupancy_pct_p50": 75.2,
-          "confidence_lower_p10": 70.9,
-          "confidence_upper_p90": 80.8,
-          "projected_occupied_beds": 81,
-          "projected_available_beds": 28,
+          "day_ahead": 22,
+          "projected_occupancy_pct_p50": 75.6,
+          "confidence_lower_p10": 71.4,
+          "confidence_upper_p90": 81.1,
+          "projected_occupied_beds": 82,
+          "projected_available_beds": 27,
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
           "date": "2026-09-26",
+          "day_ahead": 23,
+          "projected_occupancy_pct_p50": 72.4,
+          "confidence_lower_p10": 68.1,
+          "confidence_upper_p90": 78.0,
+          "projected_occupied_beds": 78,
+          "projected_available_beds": 31,
+          "surge_directive": "OPTIMAL_CAPACITY"
+        },
+        {
+          "date": "2026-09-27",
           "day_ahead": 24,
           "projected_occupancy_pct_p50": 72.0,
           "confidence_lower_p10": 67.6,
@@ -1439,27 +1439,27 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-27",
-          "day_ahead": 25,
-          "projected_occupancy_pct_p50": 71.6,
-          "confidence_lower_p10": 67.1,
-          "confidence_upper_p90": 77.4,
-          "projected_occupied_beds": 78,
-          "projected_available_beds": 31,
-          "surge_directive": "OPTIMAL_CAPACITY"
-        },
-        {
           "date": "2026-09-28",
-          "day_ahead": 26,
-          "projected_occupancy_pct_p50": 73.9,
-          "confidence_lower_p10": 69.3,
-          "confidence_upper_p90": 79.9,
-          "projected_occupied_beds": 80,
-          "projected_available_beds": 29,
+          "day_ahead": 25,
+          "projected_occupancy_pct_p50": 74.4,
+          "confidence_lower_p10": 69.9,
+          "confidence_upper_p90": 80.2,
+          "projected_occupied_beds": 81,
+          "projected_available_beds": 28,
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
           "date": "2026-09-29",
+          "day_ahead": 26,
+          "projected_occupancy_pct_p50": 76.3,
+          "confidence_lower_p10": 71.7,
+          "confidence_upper_p90": 82.3,
+          "projected_occupied_beds": 83,
+          "projected_available_beds": 26,
+          "surge_directive": "OPTIMAL_CAPACITY"
+        },
+        {
+          "date": "2026-09-30",
           "day_ahead": 27,
           "projected_occupancy_pct_p50": 75.9,
           "confidence_lower_p10": 71.2,
@@ -1469,7 +1469,7 @@
           "surge_directive": "OPTIMAL_CAPACITY"
         },
         {
-          "date": "2026-09-30",
+          "date": "2026-10-01",
           "day_ahead": 28,
           "projected_occupancy_pct_p50": 75.4,
           "confidence_lower_p10": 70.6,

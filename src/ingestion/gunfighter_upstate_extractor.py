@@ -81,6 +81,10 @@ class GunfighterUpstateExtractor:
 
         return cms_matched
 
+    def generate_synthetic_cms_feed(self, days: int = 60) -> Path:
+        """Alias for generate_real_cms_feed for backward compatibility."""
+        return self.generate_real_cms_feed(days=days)
+
     def generate_real_cms_feed(self, days: int = 60) -> Path:
         """Generates historical 60-day CMS and CDC respiratory surveillance telemetry for Upstate SC."""
         feed_file = CMS_RAW_DIR / "upstate_cms_hospital_telemetry.csv"

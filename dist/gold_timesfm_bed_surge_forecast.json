@@ -1,7 +1,7 @@
 {
   "model_metadata": {
     "foundation_model": "Google-TimesFM-3.0-Clinical-Surge-Forecaster",
-    "inference_timestamp_utc": "2026-09-03T15:53:49.993492+00:00",
+    "inference_timestamp_utc": "2026-09-03T15:54:27.881281+00:00",
     "forecast_horizon": "28 Days Forward (4-Week Surge Horizon)",
     "target_counties": [
       "Greenville County, SC",

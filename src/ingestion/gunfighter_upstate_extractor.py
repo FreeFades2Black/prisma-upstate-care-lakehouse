@@ -206,6 +206,7 @@ class GunfighterUpstateExtractor:
             ccn = r["facility_id"]
             if r["state"] == "SC" and ccn in target_ccn_list:
                 meta = PRISMA_UPSTATE_FACILITIES[ccn]
+                is_hub = meta.get("is_tertiary_hub", False)
                 total_beds = meta["total_staffed_beds"]
                 occupied_total = r["occupied_med_surg"] + r["occupied_icu"]
                 occupancy_rate = round((occupied_total / max(1, total_beds)) * 100.0, 2)

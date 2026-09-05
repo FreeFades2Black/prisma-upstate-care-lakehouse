@@ -1,0 +1,17 @@
+services:
+  prisma-care-lakehouse:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: freefades2black/prisma-upstate-care-lakehouse:latest
+    container_name: prisma-upstate-care-lakehouse
+    restart: unless-stopped
+    ports:
+      - "8820:8820"
+    environment:
+      - PORT=8820
+    healthcheck:
+      test: ["CMD-SHELL", "wget -q --spider http://127.0.0.1:8820/ || exit 1"]
+      interval: 15s
+      timeout: 5s
+      retries: 3

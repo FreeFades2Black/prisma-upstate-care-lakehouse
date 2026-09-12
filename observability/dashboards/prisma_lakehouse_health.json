@@ -1,0 +1,70 @@
+{
+  "title": "Prisma Upstate Care Lakehouse Observability",
+  "schemaVersion": 38,
+  "panels": [
+    {
+      "title": "Hospital Telemetry Ingestion Rate (recs/sec)",
+      "type": "timeseries",
+      "gridPos": {
+        "h": 8,
+        "w": 12,
+        "x": 0,
+        "y": 0
+      },
+      "targets": [
+        {
+          "expr": "rate(prisma_bronze_records_ingested_total[5m])",
+          "legendFormat": "Records / sec"
+        }
+      ]
+    },
+    {
+      "title": "TimesFM ICU Bed Forecast Accuracy (MAPE %)",
+      "type": "gauge",
+      "gridPos": {
+        "h": 8,
+        "w": 12,
+        "x": 12,
+        "y": 0
+      },
+      "targets": [
+        {
+          "expr": "avg(timesfm_forecast_mape_score)",
+          "legendFormat": "Forecast Error %"
+        }
+      ]
+    },
+    {
+      "title": "Delta Lake ACID Merge Duration (s)",
+      "type": "timeseries",
+      "gridPos": {
+        "h": 8,
+        "w": 12,
+        "x": 0,
+        "y": 8
+      },
+      "targets": [
+        {
+          "expr": "rate(delta_merge_duration_seconds_sum[5m]) / rate(delta_merge_duration_seconds_count[5m])",
+          "legendFormat": "Merge Latency (s)"
+        }
+      ]
+    },
+    {
+      "title": "Upstate ICU Bed Occupancy Rate (%)",
+      "type": "stat",
+      "gridPos": {
+        "h": 8,
+        "w": 12,
+        "x": 12,
+        "y": 8
+      },
+      "targets": [
+        {
+          "expr": "avg(prisma_icu_occupancy_ratio) * 100",
+          "legendFormat": "% ICU Capacity"
+        }
+      ]
+    }
+  ]
+}

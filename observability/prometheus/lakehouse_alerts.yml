@@ -1,0 +1,22 @@
+groups:
+  - name: prisma_lakehouse_alerts
+    rules:
+      - alert: ICUBedSurgeImminent
+        expr: avg(prisma_icu_occupancy_ratio) > 0.90
+        for: 30m
+        labels:
+          severity: critical
+          tier: healthcare-ops
+        annotations:
+          summary: "Prisma Health Upstate ICU occupancy >90%"
+          description: "TimesFM forecast indicates critical regional bed shortage. Trigger patient transfer optimization."
+
+      - alert: DeltaLakeIngestionLag
+        expr: time() - max(prisma_lakehouse_last_commit_timestamp) > 3600
+        for: 15m
+        labels:
+          severity: warning
+          tier: data-pipeline
+        annotations:
+          summary: "Hospital telemetry ingestion delayed > 1 hour"
+          description: "Bronze lakehouse pipeline has not written updates in >60 minutes."
